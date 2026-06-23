@@ -232,7 +232,8 @@ Universidad del Cauca
 Popayán, Colombia
 
 
-LinkedIn:catalinatorresarenas
+LinkedIn:linkedin.com/in/catalinatorresarenas
+
 Email: [catalinatorresarenas10@gmail.com](mailto:catalinatorresarenas10@gmail.com)
 
 ## License
