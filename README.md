@@ -231,8 +231,8 @@ Electronic and Telecommunications Engineering Student
 Universidad del Cauca
 Popayán, Colombia
 
-GitHub: [Add your GitHub profile]
-LinkedIn: [Add your LinkedIn profile]
+
+LinkedIn:catalinatorresarenas
 Email: [catalinatorresarenas10@gmail.com](mailto:catalinatorresarenas10@gmail.com)
 
 ## License
