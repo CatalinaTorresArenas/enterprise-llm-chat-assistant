@@ -1,0 +1,549 @@
+card_id,customer_id,bin,last_four,card_type,bank,expiration_date,is_primary
+1,1056,513234,6663,Diners Club,Scotiabank,07/2028,true
+2,1475,434317,9159,American Express,Nu,10/2026,true
+3,1475,496637,1044,Diners Club,Davivienda,01/2026,false
+4,1238,536751,3213,Mastercard,Nequi,04/2029,true
+5,1041,430992,9083,Visa,BBVA,10/2026,true
+6,1007,585626,1100,Diners Club,Davivienda,06/2029,true
+7,1336,433080,8830,Mastercard,Banco de Bogotá,03/2030,true
+8,1166,513597,2850,Visa,Banco de Bogotá,12/2030,true
+9,1406,587947,9639,Mastercard,Nequi,07/2029,true
+10,1208,499105,6167,American Express,Bancolombia,09/2026,true
+11,1321,566852,9594,Diners Club,Scotiabank,12/2027,true
+12,1321,462730,1887,Diners Club,Scotiabank,11/2030,false
+13,1464,594172,9021,Diners Club,Bancolombia,09/2030,true
+14,1413,529237,4238,Visa,Nequi,01/2029,true
+15,1094,419482,2775,American Express,Nequi,03/2028,true
+16,1205,471007,3472,Mastercard,Banco de Bogotá,05/2030,true
+17,1205,420378,4768,American Express,Davivienda,01/2028,false
+18,1093,404381,7945,Diners Club,BBVA,06/2029,true
+19,1179,483271,8027,Mastercard,Nu,12/2029,true
+20,1305,570865,6554,Diners Club,Nequi,05/2026,true
+21,1092,565518,8329,Mastercard,Banco de Bogotá,11/2027,true
+22,1142,475762,3285,Mastercard,Nequi,06/2027,true
+23,1142,575983,1022,American Express,Nequi,04/2026,false
+24,1148,584595,5011,American Express,Nu,02/2026,true
+25,1148,519619,2257,Visa,Nu,09/2027,false
+26,1352,502641,6024,Mastercard,BBVA,09/2030,true
+27,1313,528201,7410,Visa,BBVA,02/2028,true
+28,1040,525442,4980,Diners Club,Nequi,05/2028,true
+29,1328,549363,7632,Mastercard,Bancolombia,07/2028,true
+30,1339,544858,7431,Visa,Banco de Bogotá,03/2030,true
+31,1175,564127,8978,Diners Club,Davivienda,11/2026,true
+32,1155,423961,2084,Visa,Nu,04/2027,true
+33,1035,588956,4046,Visa,Bancolombia,07/2030,true
+34,1131,573606,6386,Visa,Davivienda,06/2026,true
+35,1385,538421,2359,American Express,Banco de Bogotá,08/2028,true
+36,1424,490143,5426,American Express,Scotiabank,08/2028,true
+37,1335,479561,4148,Visa,Davivienda,12/2027,true
+38,1440,555574,6531,Mastercard,Nequi,12/2028,true
+39,1472,478517,4189,Diners Club,Bancolombia,04/2026,true
+40,1472,437069,8722,American Express,Nequi,11/2027,false
+41,1218,536609,5771,Visa,Nu,12/2029,true
+42,1260,540273,6105,American Express,Nu,07/2029,true
+43,1117,541996,5352,Diners Club,Nequi,09/2026,true
+44,1081,525593,9962,Mastercard,BBVA,09/2026,true
+45,1376,532412,2067,Visa,Davivienda,11/2030,true
+46,1376,471192,3886,Diners Club,Nu,06/2030,false
+47,1450,409038,4490,American Express,Nu,04/2030,true
+48,1173,583968,7647,Visa,Nu,05/2029,true
+49,1432,420795,8838,American Express,Nu,10/2027,true
+50,1178,553253,7703,Mastercard,BBVA,06/2028,true
+51,1113,548579,6568,American Express,Davivienda,02/2027,true
+52,1113,590184,7687,American Express,Davivienda,08/2029,false
+53,1204,590230,3612,Mastercard,Banco de Bogotá,09/2029,true
+54,1233,578342,3170,Visa,Scotiabank,10/2029,true
+55,1196,503489,4396,Mastercard,Scotiabank,11/2030,true
+56,1084,495013,3216,Visa,Nequi,10/2026,true
+57,1444,463051,3852,Visa,Nequi,08/2026,true
+58,1493,596497,6001,Diners Club,BBVA,10/2028,true
+59,1240,519036,6638,Diners Club,BBVA,10/2027,true
+60,1192,440112,8410,American Express,Davivienda,05/2030,true
+61,1378,413846,2252,Visa,Nu,07/2028,true
+62,1404,414068,9400,American Express,BBVA,09/2028,true
+63,1162,545844,5260,American Express,Banco de Bogotá,07/2030,true
+64,1315,451342,9733,Visa,Scotiabank,12/2027,true
+65,1459,456328,1143,American Express,Davivienda,05/2027,true
+66,1064,468203,4747,Visa,BBVA,01/2030,true
+67,1395,430933,3329,Mastercard,BBVA,08/2027,true
+68,1438,532461,3622,Mastercard,Banco de Bogotá,04/2029,true
+69,1438,593483,5639,Visa,Scotiabank,09/2027,false
+70,1099,590832,6963,Diners Club,BBVA,01/2029,true
+71,1398,493306,7737,Diners Club,Nu,04/2030,true
+72,1032,486067,8349,Mastercard,Nu,05/2029,true
+73,1167,504505,6602,Visa,BBVA,07/2028,true
+74,1244,425783,1559,American Express,BBVA,05/2030,true
+75,1133,475255,4853,American Express,Nequi,02/2027,true
+76,1269,467704,9445,Visa,Davivienda,01/2029,true
+77,1051,529799,3423,Visa,Nequi,04/2026,true
+78,1051,500206,6140,Visa,Nequi,06/2030,false
+79,1141,449069,8158,Diners Club,Scotiabank,05/2028,true
+80,1391,410599,6108,Visa,BBVA,08/2030,true
+81,1213,456023,1243,Visa,Nequi,05/2027,true
+82,1198,483382,7674,Mastercard,Banco de Bogotá,08/2030,true
+83,1291,422462,9669,Visa,Scotiabank,03/2028,true
+84,1046,537168,1635,American Express,Banco de Bogotá,10/2027,true
+85,1389,484011,7839,American Express,BBVA,03/2030,true
+86,1389,572496,7379,Mastercard,Nequi,07/2027,false
+87,1091,581188,4499,Mastercard,BBVA,02/2027,true
+88,1140,499063,7054,Diners Club,Scotiabank,04/2026,true
+89,1140,524089,4852,Mastercard,Nequi,01/2027,false
+90,1302,482870,6217,Mastercard,Bancolombia,10/2027,true
+91,1038,499226,7092,Visa,Scotiabank,09/2027,true
+92,1497,501233,6618,Diners Club,BBVA,05/2026,true
+93,1412,546706,5142,American Express,Nu,05/2030,true
+94,1332,512227,3635,Visa,Davivienda,06/2027,true
+95,1314,451149,7441,Mastercard,Davivienda,11/2029,true
+96,1314,475338,6480,American Express,Bancolombia,01/2029,false
+97,1288,567653,8571,Visa,Nequi,07/2030,true
+98,1383,422308,2202,Visa,Nequi,06/2030,true
+99,1394,474242,9689,Visa,Nequi,08/2028,true
+100,1258,464482,7968,Diners Club,Davivienda,06/2028,true
+101,1215,460909,7758,Diners Club,Banco de Bogotá,10/2027,true
+102,1473,479149,3899,American Express,Nu,11/2028,true
+103,1473,400402,7537,Mastercard,Banco de Bogotá,02/2027,false
+104,1252,576570,8592,Visa,Nequi,03/2029,true
+105,1118,514629,4612,Mastercard,Scotiabank,05/2030,true
+106,1112,429612,6331,American Express,BBVA,05/2029,true
+107,1019,414670,5632,Diners Club,Davivienda,01/2029,true
+108,1060,510853,8056,Visa,BBVA,12/2028,true
+109,1156,479190,4352,American Express,Banco de Bogotá,09/2026,true
+110,1156,567368,1051,Mastercard,Davivienda,05/2027,false
+111,1423,538548,3220,Mastercard,Nu,03/2026,true
+112,1323,407269,6546,Mastercard,Bancolombia,06/2030,true
+113,1388,475672,3738,American Express,Banco de Bogotá,09/2027,true
+114,1388,510511,3201,Mastercard,Nu,11/2030,false
+115,1465,420335,7252,Visa,Nu,04/2026,true
+116,1465,500869,5625,American Express,Davivienda,06/2028,false
+117,1340,466750,8900,Mastercard,Nequi,05/2027,true
+118,1047,558860,9665,Mastercard,Nequi,12/2030,true
+119,1276,571231,8036,American Express,BBVA,09/2028,true
+120,1015,572666,9890,American Express,Nu,06/2030,true
+121,1015,450046,2787,Diners Club,Nu,12/2030,false
+122,1300,519957,3489,Visa,Bancolombia,12/2026,true
+123,1491,430059,9919,American Express,Davivienda,09/2030,true
+124,1062,477305,9537,American Express,Davivienda,06/2028,true
+125,1479,588062,3491,Mastercard,Banco de Bogotá,10/2030,true
+126,1067,430091,9585,Diners Club,Nu,10/2029,true
+127,1460,466241,7533,Diners Club,Davivienda,03/2029,true
+128,1232,402913,4238,American Express,Scotiabank,12/2027,true
+129,1232,595084,6004,Mastercard,Bancolombia,09/2030,false
+130,1008,598045,1213,Diners Club,Banco de Bogotá,12/2029,true
+131,1393,414997,3275,Visa,Bancolombia,09/2027,true
+132,1393,490050,6818,Visa,Scotiabank,11/2030,false
+133,1439,436080,1755,American Express,Bancolombia,06/2030,true
+134,1003,401111,7544,Diners Club,Davivienda,04/2030,true
+135,1322,512051,2312,Visa,Nu,10/2029,true
+136,1322,435540,9081,American Express,BBVA,06/2030,false
+137,1172,500546,7881,Diners Club,Nu,04/2026,true
+138,1325,522243,5744,Mastercard,Banco de Bogotá,04/2029,true
+139,1191,478938,5229,American Express,Davivienda,01/2029,true
+140,1263,522651,4555,Mastercard,Banco de Bogotá,02/2028,true
+141,1147,435861,7147,Mastercard,Banco de Bogotá,10/2030,true
+142,1257,559616,1593,Mastercard,BBVA,12/2030,true
+143,1257,541500,7709,Visa,Banco de Bogotá,10/2030,false
+144,1197,538951,5719,Visa,Scotiabank,02/2029,true
+145,1247,540165,1727,Visa,Scotiabank,07/2029,true
+146,1247,509200,2904,Mastercard,Banco de Bogotá,02/2030,false
+147,1237,419312,3851,American Express,Scotiabank,03/2028,true
+148,1106,410307,9017,Mastercard,Scotiabank,01/2027,true
+149,1195,593980,1450,American Express,Davivienda,04/2029,true
+150,1377,472836,9431,Visa,Bancolombia,07/2030,true
+151,1096,429864,4998,Mastercard,Davivienda,12/2026,true
+152,1245,595447,9487,American Express,Nu,09/2028,true
+153,1138,558653,3734,Mastercard,BBVA,05/2029,true
+154,1138,542273,5110,Mastercard,Bancolombia,07/2026,false
+155,1124,589581,5291,Visa,Banco de Bogotá,07/2027,true
+156,1124,415838,3127,Mastercard,Banco de Bogotá,08/2026,false
+157,1311,407423,2831,American Express,Banco de Bogotá,09/2028,true
+158,1013,466510,2228,Visa,Scotiabank,02/2030,true
+159,1013,478451,3446,Mastercard,BBVA,07/2029,false
+160,1448,562469,7496,Visa,Banco de Bogotá,10/2030,true
+161,1359,465311,6994,Visa,Banco de Bogotá,03/2029,true
+162,1134,516071,8776,Diners Club,Scotiabank,05/2030,true
+163,1477,543994,8413,American Express,Scotiabank,03/2027,true
+164,1342,565905,6217,Visa,Banco de Bogotá,05/2030,true
+165,1405,405460,8454,Mastercard,Bancolombia,10/2028,true
+166,1286,502747,2144,Visa,BBVA,05/2030,true
+167,1079,497272,9733,Diners Club,Nequi,08/2029,true
+168,1110,514471,9512,American Express,Nu,04/2030,true
+169,1186,424919,4848,American Express,Nu,09/2030,true
+170,1476,445894,6677,Diners Club,Bancolombia,05/2028,true
+171,1357,421381,2871,Diners Club,Davivienda,08/2027,true
+172,1357,508225,2824,American Express,BBVA,10/2029,false
+173,1119,473539,3027,American Express,Bancolombia,07/2029,true
+174,1050,476277,5352,Visa,Scotiabank,08/2027,true
+175,1400,485526,9201,Diners Club,Davivienda,05/2029,true
+176,1160,457304,9176,American Express,Banco de Bogotá,10/2030,true
+177,1255,486290,2626,Visa,Bancolombia,03/2026,true
+178,1220,470161,3985,Visa,Scotiabank,01/2030,true
+179,1220,536586,3504,Diners Club,Nequi,08/2026,false
+180,1072,520275,7410,American Express,BBVA,09/2026,true
+181,1072,544425,6132,Visa,Scotiabank,12/2029,false
+182,1363,416082,2082,Mastercard,Nequi,03/2028,true
+183,1467,574487,4588,Mastercard,Nu,04/2030,true
+184,1467,451209,7128,Visa,Scotiabank,12/2029,false
+185,1228,515507,5202,Mastercard,Nequi,09/2027,true
+186,1070,563814,7698,Visa,Bancolombia,02/2026,true
+187,1070,430217,1755,Diners Club,Nu,02/2029,false
+188,1129,497489,4095,Diners Club,Scotiabank,08/2027,true
+189,1129,475433,6259,Diners Club,Banco de Bogotá,05/2027,false
+190,1369,511161,9965,American Express,Davivienda,04/2027,true
+191,1369,418307,2578,Mastercard,Davivienda,10/2027,false
+192,1350,476329,9469,Diners Club,Davivienda,03/2029,true
+193,1139,559560,9817,Mastercard,Banco de Bogotá,10/2026,true
+194,1183,505627,8200,Visa,Nu,01/2030,true
+195,1370,436157,3241,American Express,Davivienda,12/2029,true
+196,1294,424710,7222,Diners Club,Banco de Bogotá,04/2029,true
+197,1271,472027,8066,Mastercard,Nequi,08/2029,true
+198,1211,557350,3098,American Express,BBVA,03/2026,true
+199,1211,582712,6990,Diners Club,Davivienda,12/2029,false
+200,1469,568998,7493,American Express,Nequi,06/2026,true
+201,1469,529387,5588,American Express,Nequi,08/2029,false
+202,1267,463971,6400,Diners Club,Scotiabank,05/2028,true
+203,1267,487924,5855,Visa,Bancolombia,03/2028,false
+204,1014,591263,2334,Mastercard,Bancolombia,05/2029,true
+205,1014,463975,3958,Mastercard,BBVA,05/2027,false
+206,1102,532225,1838,American Express,Davivienda,03/2029,true
+207,1498,441578,9847,Mastercard,Scotiabank,05/2026,true
+208,1498,555312,5148,Visa,BBVA,02/2026,false
+209,1349,509156,1124,Visa,Davivienda,11/2026,true
+210,1149,585194,6214,American Express,Scotiabank,06/2029,true
+211,1149,405535,8611,Mastercard,Bancolombia,04/2030,false
+212,1088,566476,8940,American Express,Nu,05/2030,true
+213,1078,504835,6639,Diners Club,Davivienda,11/2030,true
+214,1078,550443,5836,Diners Club,Scotiabank,03/2027,false
+215,1202,492727,9242,Mastercard,BBVA,04/2028,true
+216,1303,505077,1327,Visa,Banco de Bogotá,04/2027,true
+217,1451,553212,9951,Diners Club,Bancolombia,02/2026,true
+218,1462,589405,6972,American Express,Nu,11/2029,true
+219,1132,435874,4074,American Express,Scotiabank,07/2027,true
+220,1184,438953,6847,American Express,Nequi,01/2027,true
+221,1184,438603,1547,Mastercard,Nequi,10/2030,false
+222,1299,534123,1207,Visa,Davivienda,06/2026,true
+223,1100,495491,3337,Mastercard,Nequi,01/2028,true
+224,1100,414065,6890,Diners Club,BBVA,10/2027,false
+225,1418,555482,3656,Diners Club,Nu,04/2029,true
+226,1200,588538,9692,Visa,BBVA,10/2028,true
+227,1347,449413,3724,Visa,Bancolombia,05/2029,true
+228,1347,443965,5528,American Express,Davivienda,02/2029,false
+229,1150,573245,1449,Mastercard,Scotiabank,12/2027,true
+230,1341,546254,9149,American Express,Bancolombia,05/2030,true
+231,1341,505771,3825,Visa,Nequi,04/2026,false
+232,1468,564381,4878,American Express,Davivienda,09/2029,true
+233,1053,471767,1944,Mastercard,Nequi,03/2030,true
+234,1312,432093,6419,Visa,Banco de Bogotá,02/2028,true
+235,1116,534448,7393,Diners Club,Nu,02/2030,true
+236,1116,474096,3540,Visa,Nequi,02/2029,false
+237,1130,579280,9697,Mastercard,Scotiabank,07/2027,true
+238,1495,469840,3144,American Express,Scotiabank,04/2028,true
+239,1045,450781,2480,Mastercard,Nu,06/2030,true
+240,1390,421927,6986,Diners Club,Davivienda,04/2026,true
+241,1239,491701,3107,Mastercard,Nu,02/2030,true
+242,1021,592498,5117,Mastercard,Nequi,11/2030,true
+243,1330,449111,6844,Visa,Nu,05/2030,true
+244,1496,467843,6698,American Express,Banco de Bogotá,09/2030,true
+245,1496,428537,1158,Mastercard,Bancolombia,06/2029,false
+246,1207,456317,9953,American Express,Scotiabank,08/2028,true
+247,1320,444496,1594,Diners Club,Nu,09/2030,true
+248,1109,576609,1151,Mastercard,Bancolombia,08/2030,true
+249,1159,570025,5669,American Express,Bancolombia,10/2028,true
+250,1293,598697,2563,American Express,Banco de Bogotá,02/2026,true
+251,1318,470799,9442,Mastercard,BBVA,04/2030,true
+252,1273,545012,1608,Visa,BBVA,08/2029,true
+253,1487,505324,2817,American Express,Scotiabank,05/2027,true
+254,1487,450665,2395,Diners Club,Bancolombia,04/2027,false
+255,1443,572218,8142,Visa,Bancolombia,05/2026,true
+256,1443,557861,6959,Mastercard,Nequi,08/2026,false
+257,1043,524644,3230,Diners Club,Banco de Bogotá,05/2029,true
+258,1280,432774,4069,Mastercard,BBVA,04/2026,true
+259,1214,565497,9489,Visa,Scotiabank,09/2027,true
+260,1344,531379,6687,Diners Club,Scotiabank,11/2030,true
+261,1420,453441,2498,Mastercard,Banco de Bogotá,01/2027,true
+262,1419,420833,9880,Diners Club,Scotiabank,04/2026,true
+263,1429,490123,3121,Diners Club,Scotiabank,05/2028,true
+264,1272,524481,3435,Diners Club,Bancolombia,10/2027,true
+265,1161,465938,1978,Visa,Nu,07/2029,true
+266,1319,449074,9036,Diners Club,Bancolombia,02/2029,true
+267,1075,475890,6555,Visa,Davivienda,03/2030,true
+268,1044,498461,3720,Diners Club,Davivienda,07/2026,true
+269,1364,528325,8311,Visa,Banco de Bogotá,02/2027,true
+270,1171,536427,6968,American Express,BBVA,08/2030,true
+271,1290,444683,2610,Mastercard,Nu,06/2027,true
+272,1375,509256,6925,Visa,BBVA,09/2027,true
+273,1069,431452,6357,Mastercard,Nequi,01/2030,true
+274,1025,430325,1384,Mastercard,Nequi,08/2029,true
+275,1025,566552,4479,Mastercard,Bancolombia,06/2027,false
+276,1488,470582,9404,Mastercard,Scotiabank,09/2030,true
+277,1488,424489,3898,American Express,Nequi,11/2030,false
+278,1362,513486,9962,Visa,Davivienda,08/2030,true
+279,1226,582069,8741,Diners Club,BBVA,12/2030,true
+280,1414,499001,4318,American Express,Davivienda,10/2026,true
+281,1414,426063,1139,American Express,Scotiabank,07/2028,false
+282,1170,465817,3022,American Express,Nequi,09/2029,true
+283,1103,582044,2009,Diners Club,Davivienda,10/2029,true
+284,1089,555799,4972,Visa,Bancolombia,11/2029,true
+285,1381,407389,5923,Diners Club,Bancolombia,12/2027,true
+286,1049,529771,5063,Mastercard,Bancolombia,12/2027,true
+287,1108,425566,9061,Diners Club,Nequi,04/2026,true
+288,1484,474500,4458,American Express,Scotiabank,02/2027,true
+289,1098,494001,4775,American Express,Nu,04/2027,true
+290,1123,410862,3684,Mastercard,Davivienda,09/2028,true
+291,1123,401193,3577,Diners Club,Bancolombia,08/2026,false
+292,1422,413657,6413,Visa,Davivienda,02/2027,true
+293,1471,560764,3040,Mastercard,Bancolombia,01/2029,true
+294,1471,487200,2527,American Express,Banco de Bogotá,07/2030,false
+295,1415,543285,6528,Visa,BBVA,08/2027,true
+296,1052,443127,2953,Mastercard,Bancolombia,10/2026,true
+297,1095,598959,4918,Diners Club,Bancolombia,07/2026,true
+298,1243,430237,1889,Mastercard,Davivienda,10/2029,true
+299,1146,416175,6346,Mastercard,BBVA,02/2029,true
+300,1146,527438,2036,Visa,BBVA,12/2029,false
+301,1261,431954,6940,Visa,Nu,02/2029,true
+302,1201,530426,1805,American Express,Davivienda,03/2030,true
+303,1201,575999,6891,Diners Club,Scotiabank,04/2028,false
+304,1396,511651,9748,American Express,Nu,07/2028,true
+305,1396,549763,8798,Mastercard,Nu,06/2029,false
+306,1365,411027,6090,Mastercard,BBVA,03/2026,true
+307,1033,538810,3620,Visa,Bancolombia,03/2029,true
+308,1128,455751,6385,Mastercard,Scotiabank,10/2027,true
+309,1020,501599,9317,American Express,BBVA,09/2026,true
+310,1020,497699,8072,American Express,Scotiabank,04/2030,false
+311,1283,525907,9488,American Express,Bancolombia,05/2028,true
+312,1063,529251,1915,Visa,Scotiabank,01/2028,true
+313,1461,427857,9037,Mastercard,Banco de Bogotá,09/2028,true
+314,1461,560379,3051,Diners Club,Nequi,10/2030,false
+315,1209,485322,3154,Visa,Davivienda,07/2027,true
+316,1289,572747,5763,Diners Club,Scotiabank,06/2028,true
+317,1164,514406,7724,Visa,Davivienda,06/2027,true
+318,1137,587960,8397,American Express,Bancolombia,05/2027,true
+319,1016,443863,9412,American Express,Nu,07/2026,true
+320,1221,536463,3084,Diners Club,Bancolombia,03/2026,true
+321,1308,592854,8404,American Express,Banco de Bogotá,04/2028,true
+322,1490,464986,6280,Diners Club,BBVA,01/2026,true
+323,1037,464327,9700,Diners Club,Bancolombia,01/2029,true
+324,1281,490426,7970,Visa,Banco de Bogotá,06/2027,true
+325,1410,540085,8298,Diners Club,Nequi,03/2029,true
+326,1356,456277,3427,Visa,BBVA,10/2026,true
+327,1266,432052,8261,American Express,BBVA,01/2026,true
+328,1266,468445,9165,Visa,Scotiabank,01/2027,false
+329,1494,592625,9923,American Express,BBVA,04/2026,true
+330,1024,426655,9590,American Express,Davivienda,08/2026,true
+331,1055,416771,8267,Visa,Scotiabank,01/2029,true
+332,1182,522500,9350,Visa,Nequi,08/2030,true
+333,1145,438523,5112,Diners Club,Bancolombia,04/2027,true
+334,1437,548685,9775,American Express,Nu,01/2027,true
+335,1076,429788,4473,American Express,BBVA,10/2027,true
+336,1435,583999,1910,Diners Club,Banco de Bogotá,12/2028,true
+337,1018,569581,1311,Diners Club,Nequi,12/2026,true
+338,1058,441534,1331,Mastercard,Nu,12/2028,true
+339,1054,591821,7006,Mastercard,Scotiabank,12/2029,true
+340,1351,596302,5037,Mastercard,Banco de Bogotá,01/2026,true
+341,1351,430070,1119,Diners Club,Davivienda,09/2026,false
+342,1499,593250,6042,American Express,Banco de Bogotá,04/2027,true
+343,1355,421882,2037,American Express,Davivienda,09/2030,true
+344,1206,456503,5422,Mastercard,Nequi,04/2026,true
+345,1005,408379,7723,Visa,Nu,12/2028,true
+346,1235,555387,4996,Visa,Nequi,07/2028,true
+347,1235,576280,9384,Diners Club,Banco de Bogotá,12/2030,false
+348,1259,409437,6824,Mastercard,Davivienda,05/2030,true
+349,1187,440427,6547,Diners Club,Nu,09/2029,true
+350,1329,528428,6903,American Express,Nu,02/2028,true
+351,1348,457677,6645,Visa,Scotiabank,10/2030,true
+352,1348,402850,5944,American Express,Banco de Bogotá,05/2026,false
+353,1282,536336,1273,Diners Club,BBVA,08/2026,true
+354,1115,582140,7604,American Express,Banco de Bogotá,01/2027,true
+355,1194,428949,5559,American Express,Banco de Bogotá,06/2030,true
+356,1194,582980,2091,Diners Club,Bancolombia,02/2027,false
+357,1492,465178,5601,Mastercard,Banco de Bogotá,04/2026,true
+358,1368,597235,9096,American Express,Nequi,11/2030,true
+359,1485,419703,7361,American Express,Nu,11/2026,true
+360,1354,475416,8587,Mastercard,Nu,09/2029,true
+361,1354,406650,3235,American Express,Nu,11/2030,false
+362,1367,490758,9984,Visa,Bancolombia,02/2027,true
+363,1367,580258,9961,Diners Club,Nequi,11/2026,false
+364,1165,460157,3238,Mastercard,Nequi,10/2028,true
+365,1042,494048,7044,American Express,Davivienda,04/2026,true
+366,1042,492875,9766,Diners Club,Banco de Bogotá,07/2026,false
+367,1331,506844,4785,Visa,Nu,05/2026,true
+368,1331,530518,6874,Diners Club,Banco de Bogotá,09/2029,false
+369,1445,566496,9765,Visa,Scotiabank,01/2026,true
+370,1431,477998,3377,Mastercard,Scotiabank,04/2029,true
+371,1068,569696,3440,American Express,Nu,05/2026,true
+372,1022,478228,6396,Diners Club,Banco de Bogotá,04/2027,true
+373,1066,588123,8733,Visa,BBVA,09/2027,true
+374,1011,452058,5736,Mastercard,BBVA,11/2030,true
+375,1111,583643,1772,American Express,Nu,08/2029,true
+376,1236,405407,4940,Visa,Scotiabank,09/2026,true
+377,1474,561841,4153,American Express,Davivienda,05/2029,true
+378,1399,588279,4710,Mastercard,Scotiabank,07/2026,true
+379,1190,435826,2088,Mastercard,Davivienda,01/2030,true
+380,1447,429076,8530,Mastercard,Nequi,08/2028,true
+381,1447,540107,7407,Mastercard,BBVA,08/2028,false
+382,1285,534023,8479,Visa,Davivienda,01/2026,true
+383,1121,535091,9571,American Express,Scotiabank,10/2026,true
+384,1225,547986,3290,Mastercard,Bancolombia,12/2028,true
+385,1417,506198,9786,Diners Club,BBVA,10/2029,true
+386,1417,416073,8816,Mastercard,Nequi,02/2030,false
+387,1253,579431,8556,Visa,Bancolombia,11/2028,true
+388,1253,414497,5073,American Express,Nequi,10/2027,false
+389,1254,497466,9697,American Express,Nu,03/2027,true
+390,1169,579656,9639,Diners Club,Nu,02/2030,true
+391,1163,556099,8752,Mastercard,Bancolombia,03/2027,true
+392,1174,478215,3925,American Express,Scotiabank,05/2028,true
+393,1216,459699,1827,Mastercard,Scotiabank,11/2030,true
+394,1403,493772,4847,American Express,Banco de Bogotá,11/2030,true
+395,1010,407663,1736,Visa,Nequi,08/2026,true
+396,1489,521333,4344,Diners Club,BBVA,02/2027,true
+397,1242,567440,3540,Visa,BBVA,03/2030,true
+398,1144,550292,2263,American Express,Nequi,05/2027,true
+399,1144,440560,1546,American Express,Bancolombia,06/2030,false
+400,1386,432178,8546,Visa,Bancolombia,01/2027,true
+401,1168,499030,1338,Visa,Davivienda,07/2030,true
+402,1275,489338,9778,Mastercard,Bancolombia,08/2029,true
+403,1136,513421,2603,Mastercard,Scotiabank,12/2030,true
+404,1136,404742,3316,American Express,Scotiabank,08/2027,false
+405,1478,528300,1200,American Express,Scotiabank,10/2028,true
+406,1065,527545,5604,Mastercard,Nequi,11/2027,true
+407,1249,449158,2889,Mastercard,Scotiabank,03/2030,true
+408,1353,542414,9156,American Express,Nequi,08/2026,true
+409,1262,409799,1852,American Express,Bancolombia,11/2029,true
+410,1274,479886,2433,American Express,Nu,04/2028,true
+411,1154,469726,5848,Diners Club,BBVA,12/2026,true
+412,1337,473443,3630,Mastercard,Banco de Bogotá,09/2030,true
+413,1083,557266,8446,American Express,BBVA,01/2030,true
+414,1326,527600,1654,American Express,BBVA,11/2028,true
+415,1077,486450,4691,Visa,Davivienda,12/2030,true
+416,1077,549504,2862,Diners Club,Nequi,06/2026,false
+417,1310,500984,7192,Mastercard,Bancolombia,06/2028,true
+418,1380,422363,9806,Diners Club,Davivienda,11/2028,true
+419,1380,596560,1089,Visa,Nequi,05/2027,false
+420,1177,509322,7104,Diners Club,BBVA,01/2027,true
+421,1177,520501,7746,American Express,Davivienda,10/2030,false
+422,1223,514375,8055,Diners Club,Bancolombia,03/2029,true
+423,1268,407055,2309,Diners Club,BBVA,08/2029,true
+424,1268,430540,8719,Diners Club,BBVA,04/2030,false
+425,1277,504300,2737,Diners Club,Nequi,11/2027,true
+426,1234,509939,1838,Diners Club,Nu,05/2030,true
+427,1151,406941,8738,Visa,Bancolombia,01/2028,true
+428,1114,488392,3112,Mastercard,Scotiabank,03/2028,true
+429,1009,477935,6293,Diners Club,Scotiabank,02/2027,true
+430,1086,471364,5449,American Express,Scotiabank,10/2027,true
+431,1292,470183,2647,Diners Club,Bancolombia,09/2029,true
+432,1292,449112,4716,Mastercard,Scotiabank,04/2030,false
+433,1105,461531,5465,American Express,Banco de Bogotá,03/2026,true
+434,1256,586759,8078,Mastercard,Nu,03/2030,true
+435,1343,506616,8378,Diners Club,Banco de Bogotá,12/2026,true
+436,1343,404066,5101,Diners Club,Scotiabank,01/2027,false
+437,1374,465740,3545,Mastercard,Scotiabank,10/2030,true
+438,1188,577803,3427,Mastercard,Davivienda,02/2030,true
+439,1425,421061,3228,Visa,Davivienda,05/2030,true
+440,1425,433151,8333,Mastercard,Scotiabank,03/2028,false
+441,1125,448828,1373,American Express,Nu,02/2028,true
+442,1125,403421,4890,Mastercard,Bancolombia,02/2027,false
+443,1157,554612,7876,Diners Club,Nu,02/2027,true
+444,1071,435614,1315,American Express,BBVA,11/2029,true
+445,1071,407622,4953,Diners Club,Scotiabank,04/2028,false
+446,1486,545726,6392,Visa,Bancolombia,01/2026,true
+447,1087,444673,2861,Mastercard,BBVA,04/2030,true
+448,1031,491441,3677,American Express,BBVA,07/2029,true
+449,1023,578341,2634,Diners Club,Davivienda,01/2028,true
+450,1176,491269,6427,Mastercard,Scotiabank,08/2030,true
+451,1454,570831,1797,Mastercard,Nu,08/2030,true
+452,1441,563954,1393,Diners Club,Nequi,07/2027,true
+453,1457,496873,4127,Visa,Nequi,05/2030,true
+454,1436,582003,9305,American Express,Nequi,02/2028,true
+455,1301,589892,5226,Visa,Banco de Bogotá,09/2028,true
+456,1085,456354,3089,American Express,Banco de Bogotá,03/2029,true
+457,1426,537649,8895,Visa,Nequi,12/2028,true
+458,1026,519373,1273,Mastercard,Nu,07/2026,true
+459,1026,489220,6289,Visa,Davivienda,03/2026,false
+460,1246,459753,1731,Mastercard,Banco de Bogotá,06/2029,true
+461,1382,458871,5705,Visa,Nequi,10/2030,true
+462,1442,577740,7069,Diners Club,Banco de Bogotá,06/2030,true
+463,1135,430572,8466,American Express,Banco de Bogotá,08/2030,true
+464,1002,470190,4803,American Express,Nu,11/2029,true
+465,1392,409747,6967,Diners Club,Scotiabank,08/2026,true
+466,1402,541440,6578,Diners Club,BBVA,12/2028,true
+467,1379,493418,5162,Diners Club,Scotiabank,07/2028,true
+468,1230,558127,5312,Diners Club,Banco de Bogotá,10/2028,true
+469,1039,476011,8477,Diners Club,Nequi,10/2028,true
+470,1158,481019,3638,American Express,Davivienda,10/2027,true
+471,1082,573043,9842,Mastercard,Davivienda,03/2026,true
+472,1122,480411,3169,Visa,Banco de Bogotá,12/2026,true
+473,1287,569473,6350,Visa,Nequi,04/2027,true
+474,1411,507479,9556,Mastercard,Nu,11/2027,true
+475,1284,532378,8280,American Express,Nequi,12/2030,true
+476,1284,490115,5717,Mastercard,Davivienda,01/2027,false
+477,1434,561843,5351,Diners Club,Banco de Bogotá,12/2027,true
+478,1279,526775,2628,Diners Club,Scotiabank,06/2030,true
+479,1452,494310,5012,Diners Club,Davivienda,02/2028,true
+480,1361,439446,4949,Diners Club,Bancolombia,02/2030,true
+481,1481,555096,3757,Visa,Scotiabank,07/2030,true
+482,1298,592089,8687,Diners Club,Banco de Bogotá,09/2027,true
+483,1189,549812,1633,American Express,Davivienda,10/2029,true
+484,1001,401234,3658,Visa,BBVA,12/2029,true
+485,1012,550000,3931,Mastercard,Scotiabank,03/2026,true
+486,1027,401234,7367,Visa,BBVA,03/2029,true
+487,1028,545678,4120,Mastercard,Davivienda,08/2028,true
+488,1030,301234,5577,Diners Club,Nu,04/2028,true
+489,1036,520000,9460,Mastercard,Banco de Bogotá,07/2026,true
+490,1048,374000,6917,American Express,BBVA,04/2029,true
+491,1057,512345,6970,Mastercard,Scotiabank,11/2029,true
+492,1059,530000,6880,Mastercard,Nequi,12/2029,true
+493,1073,410000,2113,Visa,Nequi,03/2026,true
+494,1074,360000,7898,Diners Club,Banco de Bogotá,06/2026,true
+495,1080,383000,8939,Diners Club,Nu,07/2029,true
+496,1090,550000,6585,Mastercard,Nequi,09/2027,true
+497,1097,371234,0151,American Express,Scotiabank,03/2027,true
+498,1120,383000,5897,Diners Club,Scotiabank,06/2028,true
+499,1126,383000,7114,Diners Club,Banco de Bogotá,11/2026,true
+500,1127,374000,1611,American Express,BBVA,10/2028,true
+501,1143,382000,7850,Diners Club,Davivienda,04/2028,true
+502,1180,301234,3188,Diners Club,BBVA,09/2027,true
+503,1181,301234,0003,Diners Club,Bancolombia,10/2026,true
+504,1185,401234,0731,Visa,Davivienda,11/2028,true
+505,1193,510000,5135,Mastercard,Davivienda,12/2029,true
+506,1199,410000,7749,Visa,Nequi,12/2027,true
+507,1203,373000,2623,American Express,Bancolombia,05/2028,true
+508,1210,360000,8520,Diners Club,Banco de Bogotá,06/2029,true
+509,1212,425000,1203,Visa,Bancolombia,03/2028,true
+510,1219,340000,0419,American Express,Scotiabank,11/2029,true
+511,1227,371234,7375,American Express,Nu,08/2026,true
+512,1229,360000,2521,Diners Club,Banco de Bogotá,12/2027,true
+513,1231,540000,7517,Mastercard,Nequi,12/2027,true
+514,1251,425000,0559,Visa,Nequi,06/2027,true
+515,1264,400000,7402,Visa,Nu,06/2029,true
+516,1265,410000,8468,Visa,Davivienda,05/2027,true
+517,1278,530000,6969,Mastercard,Banco de Bogotá,11/2029,true
+518,1295,415678,3067,Visa,Banco de Bogotá,08/2027,true
+519,1296,374000,6811,American Express,Banco de Bogotá,07/2029,true
+520,1304,550000,7284,Mastercard,BBVA,04/2028,true
+521,1306,410000,3790,Visa,Scotiabank,03/2026,true
+522,1307,381234,6684,Diners Club,Nu,11/2027,true
+523,1309,402567,5762,Visa,BBVA,11/2027,true
+524,1316,415678,9106,Visa,Nequi,12/2027,true
+525,1334,371234,9105,American Express,Nequi,05/2026,true
+526,1345,373000,2806,American Express,Bancolombia,04/2026,true
+527,1358,520000,1741,Mastercard,Nu,11/2028,true
+528,1360,512345,4768,Mastercard,Nequi,08/2027,true
+529,1366,512345,0227,Mastercard,BBVA,09/2028,true
+530,1371,300000,1580,Diners Club,Bancolombia,06/2026,true
+531,1372,341234,9194,American Express,Bancolombia,12/2028,true
+532,1373,550000,9949,Mastercard,Scotiabank,12/2026,true
+533,1384,361234,9733,Diners Club,BBVA,10/2029,true
+534,1401,420000,8212,Visa,Nu,07/2029,true
+535,1409,372567,0944,American Express,Scotiabank,09/2026,true
+536,1416,540000,4744,Mastercard,Nu,04/2028,true
+537,1421,300000,8882,Diners Club,BBVA,08/2027,true
+538,1428,401234,2656,Visa,Nu,12/2026,true
+539,1449,402567,8562,Visa,Bancolombia,08/2028,true
+540,1453,402567,5832,Visa,Banco de Bogotá,09/2029,true
+541,1455,382000,3597,Diners Club,Davivienda,05/2027,true
+542,1456,425000,4177,Visa,Nu,05/2027,true
+543,1458,415678,8866,Visa,Bancolombia,10/2029,true
+544,1470,342567,9726,American Express,BBVA,04/2027,true
+545,1480,415678,5582,Visa,Nu,11/2028,true
+546,1482,400000,3978,Visa,Nu,10/2026,true
+547,1483,520000,6538,Mastercard,Nu,08/2027,true
+548,1500,370000,6139,American Express,BBVA,08/2029,true

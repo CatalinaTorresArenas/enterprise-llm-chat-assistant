@@ -1,0 +1,551 @@
+address_id,customer_id,address_line1,address_line2,city,department,postal_code,country,delivery_notes,landmark,requires_appointment,address_type,is_default,is_residential
+1,1001,Carrera 138 # 56-45,,Cartagena,Bolívar,133534,Colombia,,,false,work,true,false
+2,1001,Transversal 39 # 114-04,,Bogotá D.C.,Cundinamarca,119807,Colombia,,,false,other,false,false
+3,1002,Avenida 175 # 47-76,,Bogotá D.C.,Cundinamarca,112633,Colombia,,,false,work,true,false
+4,1003,Transversal 100 # 115-15,,Pereira,Risaralda,662072,Colombia,,Al lado del colegio San José,false,home,true,true
+5,1003,Calle 92 # 16-62,Bloque B Apto 287,Cali,Valle del Cauca,766251,Colombia,,,false,work,false,false
+6,1004,Carrera 73 # 83-18,,Pereira,Risaralda,664244,Colombia,,,false,home,true,true
+7,1005,Calle 126 # 27-42,,Cartagena,Bolívar,137370,Colombia,,,false,work,true,false
+8,1006,Calle 49 # 23-40,Bloque C Apto 1614,Cartagena,Bolívar,131785,Colombia,,Detrás del centro médico,false,home,true,true
+9,1007,Calle 176 # 112-95,,Cartagena,Bolívar,133921,Colombia,,,true,home,true,true
+10,1007,Carrera 57 # 82-10,Local 7,Barranquilla,Atlántico,081255,Colombia,Dejar en recepción del edificio,Esquina con la panadería Don Pan,false,home,false,true
+11,1008,Circular 85 # 46-50,Oficina 13,Medellín,Antioquia,051733,Colombia,Entregar únicamente al titular,Cerca de la estación del metro,false,home,true,true
+12,1009,Circular 161 # 80-27,Bloque E,Bucaramanga,Santander,681167,Colombia,,,false,work,true,false
+13,1010,Avenida 154 # 3-81,,Cartagena,Bolívar,131684,Colombia,,,false,home,true,true
+14,1011,Calle 30 # 41-63,,Pereira,Risaralda,669797,Colombia,,,false,home,true,true
+15,1011,Diagonal 73 # 138-37,,Santa Marta,Magdalena,475284,Colombia,Dejar con el portero,Frente a la iglesia principal,false,work,false,true
+16,1012,Transversal 10 # 121-62,,Bogotá D.C.,Cundinamarca,114746,Colombia,Dejar en recepción del edificio,Diagonal al centro comercial,false,home,true,true
+17,1013,Circular 37 # 114-77,Bloque D Apto 1585,Barranquilla,Atlántico,086208,Colombia,"Timbre no funciona, llamar al llegar",,false,other,true,false
+18,1014,Diagonal 52 # 15-51,,Cali,Valle del Cauca,765780,Colombia,,Frente a la iglesia principal,false,work,true,true
+19,1015,Calle 63 # 136-37,,Barranquilla,Atlántico,083348,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+20,1015,Calle 159 # 44-93,Oficina 2,Cartagena,Bolívar,133350,Colombia,,,true,home,false,true
+21,1016,Diagonal 197 # 146-16,Piso 2,Bogotá D.C.,Cundinamarca,119938,Colombia,"Si no hay nadie, dejar con el vecino del 202",,false,home,true,true
+22,1017,Avenida 176 # 100-58,Casa 16,Cali,Valle del Cauca,765096,Colombia,,,false,work,true,true
+23,1018,Avenida 58 # 37-37,,Cartagena,Bolívar,133856,Colombia,,Cerca de la estación del metro,false,home,true,true
+24,1019,Diagonal 77 # 37-06,,Bogotá D.C.,Cundinamarca,119871,Colombia,,,false,home,true,true
+25,1020,Diagonal 108 # 107-59,Local 13,Medellín,Antioquia,058594,Colombia,,Junto al CAI de policía,false,home,true,true
+26,1021,Carrera 183 # 49-73,,Medellín,Antioquia,056954,Colombia,,,false,home,true,true
+27,1022,Avenida 55 # 101-19,,Pereira,Risaralda,669893,Colombia,,Al lado del banco Bancolombia,true,home,true,true
+28,1023,Carrera 169 # 99-67,,Bucaramanga,Santander,688257,Colombia,Llamar 10 minutos antes de llegar,Junto a la estación de servicio,false,work,true,true
+29,1024,Circular 103 # 148-26,,Bogotá D.C.,Cundinamarca,116185,Colombia,,,false,work,true,true
+30,1025,Transversal 136 # 10-87,,Armenia,Quindío,632070,Colombia,"Timbre no funciona, llamar al llegar",,false,home,true,true
+31,1026,Avenida 92 # 52-96,,Bogotá D.C.,Cundinamarca,114489,Colombia,,A media cuadra del parque central,false,work,true,true
+32,1027,Carrera 75 # 78-13,Casa 5,Santa Marta,Magdalena,473674,Colombia,,,false,home,true,true
+33,1028,Circular 121 # 72-89,Casa 4,Bucaramanga,Santander,683402,Colombia,,Al lado de la droguería,false,home,true,true
+34,1029,Diagonal 44 # 6-76,,Cali,Valle del Cauca,766937,Colombia,,,false,work,true,false
+35,1030,Transversal 89 # 87-11,Apto 6,Manizales,Caldas,173210,Colombia,,,false,home,true,true
+36,1031,Carrera 163 # 83-38,Piso 3,Manizales,Caldas,176811,Colombia,,,true,work,true,true
+37,1031,Avenida 65 # 50-66,,Bogotá D.C.,Cundinamarca,119526,Colombia,,A media cuadra del parque central,false,home,false,true
+38,1032,Circular 79 # 68-58,Oficina 2,Medellín,Antioquia,055470,Colombia,,,false,home,true,true
+39,1032,Calle 34 # 3-95,,Bucaramanga,Santander,685959,Colombia,,,false,home,false,true
+40,1033,Avenida 179 # 97-43,,Manizales,Caldas,179398,Colombia,,,false,home,true,true
+41,1034,Circular 67 # 142-25,,Cali,Valle del Cauca,765369,Colombia,Preguntar por el administrador,,true,home,true,true
+42,1035,Transversal 30 # 6-17,Apto 8,Cali,Valle del Cauca,762219,Colombia,Dejar con el portero,Al lado del colegio San José,false,work,true,true
+43,1036,Circular 88 # 19-20,,Bogotá D.C.,Cundinamarca,118549,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+44,1036,Carrera 191 # 21-24,,Bogotá D.C.,Cundinamarca,112500,Colombia,"Llamar al llegar, no hay citófono",,false,work,false,true
+45,1037,Transversal 50 # 122-26,Local 20,Cúcuta,Norte de Santander,544048,Colombia,,,false,work,true,true
+46,1038,Calle 21 # 46-26,,Cartagena,Bolívar,139880,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+47,1039,Avenida 194 # 59-21,,Bogotá D.C.,Cundinamarca,115861,Colombia,,,false,home,true,true
+48,1040,Circular 62 # 136-01,,Cali,Valle del Cauca,765123,Colombia,,Al lado de la droguería,true,home,true,true
+49,1041,Calle 159 # 111-11,,Villavicencio,Meta,508306,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,work,true,false
+50,1042,Circular 156 # 17-73,,Santa Marta,Magdalena,476227,Colombia,,,false,home,true,true
+51,1042,Diagonal 81 # 140-96,,Armenia,Quindío,633794,Colombia,Horario preferido: mañanas,,false,work,false,false
+52,1043,Diagonal 119 # 116-20,,Cali,Valle del Cauca,767317,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+53,1044,Carrera 103 # 94-02,,Cúcuta,Norte de Santander,543830,Colombia,"Tocar fuerte, timbre dañado",Frente al parque San Antonio,false,home,true,true
+54,1045,Carrera 6 # 128-51,,Cali,Valle del Cauca,765549,Colombia,Preguntar por el administrador,,false,home,true,true
+55,1046,Diagonal 171 # 16-46,Apto 11,Bogotá D.C.,Cundinamarca,118810,Colombia,,Frente al hospital regional,false,work,true,true
+56,1047,Avenida 162 # 41-44,,Bogotá D.C.,Cundinamarca,118028,Colombia,,,false,home,true,true
+57,1047,Circular 33 # 95-73,Apto 1,Cali,Valle del Cauca,768324,Colombia,,A media cuadra del parque central,false,other,false,false
+58,1048,Diagonal 72 # 143-44,,Pereira,Risaralda,666424,Colombia,,,false,work,true,true
+59,1049,Circular 152 # 61-32,,Medellín,Antioquia,058696,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+60,1049,Calle 136 # 126-60,,Cali,Valle del Cauca,765358,Colombia,Dejar en recepción del edificio,,false,home,false,true
+61,1050,Avenida 200 # 16-61,,Bogotá D.C.,Cundinamarca,111050,Colombia,,,false,home,true,true
+62,1051,Avenida 125 # 81-78,Casa 7,Medellín,Antioquia,052972,Colombia,,Frente a la iglesia principal,false,home,true,true
+63,1052,Diagonal 109 # 3-39,,Medellín,Antioquia,053360,Colombia,,Al lado del banco Bancolombia,true,home,true,true
+64,1053,Diagonal 161 # 98-72,,Bogotá D.C.,Cundinamarca,118276,Colombia,,Cerca de la estación del metro,false,home,true,true
+65,1054,Diagonal 73 # 42-76,,Cúcuta,Norte de Santander,541277,Colombia,Parqueadero visitantes disponible,Cerca del estadio municipal,false,home,true,true
+66,1055,Diagonal 141 # 7-81,,Ibagué,Tolima,736306,Colombia,,Al lado de la droguería,false,home,true,true
+67,1056,Transversal 11 # 131-08,Bloque C,Pasto,Nariño,522112,Colombia,Dejar con el portero,,false,home,true,true
+68,1057,Avenida 92 # 87-11,,Pasto,Nariño,522139,Colombia,,,false,home,true,true
+69,1058,Circular 40 # 141-12,Local 6,Cali,Valle del Cauca,762888,Colombia,,,false,home,true,true
+70,1059,Transversal 7 # 14-83,Casa 16,Manizales,Caldas,171694,Colombia,"Llamar al llegar, no hay citófono",A una cuadra del supermercado Éxito,false,home,true,true
+71,1060,Avenida 100 # 102-03,,Cali,Valle del Cauca,765745,Colombia,,,false,home,true,true
+72,1061,Carrera 151 # 10-27,,Bogotá D.C.,Cundinamarca,119052,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,Frente a la plaza de mercado,false,work,true,true
+73,1062,Transversal 2 # 73-35,,Bogotá D.C.,Cundinamarca,119370,Colombia,,,false,home,true,true
+74,1063,Avenida 67 # 101-16,,Medellín,Antioquia,058399,Colombia,Entregar únicamente al titular,,false,work,true,true
+75,1064,Calle 100 # 28-96,Casa 7,Bogotá D.C.,Cundinamarca,115892,Colombia,,,false,work,true,true
+76,1065,Circular 161 # 59-73,Piso 9,Bogotá D.C.,Cundinamarca,114552,Colombia,,Frente a la iglesia principal,false,work,true,true
+77,1066,Diagonal 185 # 84-59,Torre C Apto 1084,Ibagué,Tolima,735675,Colombia,,,false,home,true,true
+78,1067,Calle 8 # 13-02,Apto 10,Bogotá D.C.,Cundinamarca,118291,Colombia,,,false,home,true,true
+79,1068,Circular 49 # 109-95,Apto 9,Medellín,Antioquia,057840,Colombia,,Al lado de la droguería,false,home,true,true
+80,1069,Diagonal 53 # 31-82,Bloque A Apto 2009,Medellín,Antioquia,058807,Colombia,Dejar con el portero,Al lado del colegio San José,false,work,true,false
+81,1070,Avenida 6 # 145-62,,Medellín,Antioquia,053511,Colombia,Dejar en recepción del edificio,,true,home,true,true
+82,1071,Diagonal 45 # 4-74,Bloque B Apto 1895,Barranquilla,Atlántico,085601,Colombia,,,false,home,true,true
+83,1072,Avenida 49 # 61-89,,Manizales,Caldas,171031,Colombia,,Al lado del banco Bancolombia,false,work,true,false
+84,1073,Circular 13 # 74-47,,Ibagué,Tolima,737017,Colombia,,,false,home,true,true
+85,1074,Circular 142 # 139-19,,Cali,Valle del Cauca,766681,Colombia,,,false,other,true,false
+86,1075,Circular 193 # 127-87,,Bogotá D.C.,Cundinamarca,116903,Colombia,,Cerca de la estación del metro,false,home,true,true
+87,1076,Circular 120 # 116-97,,Cali,Valle del Cauca,763691,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+88,1077,Carrera 147 # 36-27,Local 3,Pasto,Nariño,527864,Colombia,,,false,home,true,true
+89,1078,Calle 66 # 141-86,Bloque D Apto 1714,Bucaramanga,Santander,686486,Colombia,,Frente a la plaza de mercado,false,home,true,true
+90,1079,Diagonal 57 # 148-45,Bloque B,Pereira,Risaralda,668432,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,home,true,true
+91,1080,Calle 127 # 37-10,,Cartagena,Bolívar,136022,Colombia,Dejar en recepción del edificio,Frente a la iglesia principal,false,home,true,true
+92,1081,Calle 5 # 8-38,,Bogotá D.C.,Cundinamarca,114042,Colombia,,,true,home,true,true
+93,1082,Diagonal 92 # 104-02,,Bogotá D.C.,Cundinamarca,115918,Colombia,,Detrás del centro médico,false,home,true,true
+94,1083,Circular 158 # 11-87,,Barranquilla,Atlántico,081516,Colombia,,Cerca de la estación del metro,false,work,true,true
+95,1084,Calle 109 # 90-88,,Cartagena,Bolívar,131447,Colombia,,,false,home,true,true
+96,1085,Transversal 24 # 22-32,Bloque B,Medellín,Antioquia,056527,Colombia,Preguntar por el administrador,Detrás del centro médico,false,work,true,true
+97,1086,Diagonal 25 # 3-88,,Cúcuta,Norte de Santander,541462,Colombia,,,false,home,true,true
+98,1087,Transversal 100 # 138-84,Oficina 19,Santa Marta,Magdalena,472927,Colombia,,,false,home,true,true
+99,1087,Calle 75 # 85-55,,Bogotá D.C.,Cundinamarca,113536,Colombia,,Cerca del estadio municipal,false,home,false,true
+100,1088,Circular 168 # 46-99,,Neiva,Huila,415952,Colombia,Horario preferido: mañanas,,false,home,true,true
+101,1089,Diagonal 180 # 30-13,,Ibagué,Tolima,733162,Colombia,,,false,home,true,true
+102,1089,Circular 111 # 6-91,,Cali,Valle del Cauca,767034,Colombia,,Cerca del estadio municipal,true,work,false,false
+103,1090,Calle 23 # 68-86,,Bogotá D.C.,Cundinamarca,117575,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+104,1091,Carrera 171 # 51-58,,Bucaramanga,Santander,689944,Colombia,,Diagonal al centro comercial,false,home,true,true
+105,1091,Diagonal 30 # 144-06,,Bucaramanga,Santander,683414,Colombia,,,false,work,false,true
+106,1092,Calle 135 # 69-75,,Bogotá D.C.,Cundinamarca,115969,Colombia,,Al lado del colegio San José,false,work,true,true
+107,1093,Diagonal 123 # 55-13,,Barranquilla,Atlántico,089870,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+108,1094,Calle 123 # 132-10,,Armenia,Quindío,635047,Colombia,,,false,work,true,false
+109,1095,Calle 193 # 111-06,Piso 13,Barranquilla,Atlántico,081453,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,home,true,true
+110,1095,Circular 33 # 123-79,Torre G Apto 1648,Medellín,Antioquia,053576,Colombia,Celador autorizado para recibir,Diagonal al centro comercial,false,home,false,true
+111,1096,Transversal 22 # 38-99,,Bogotá D.C.,Cundinamarca,117054,Colombia,,A media cuadra del parque central,false,home,true,true
+112,1097,Avenida 121 # 131-63,,Cali,Valle del Cauca,763248,Colombia,,Cerca del estadio municipal,false,home,true,true
+113,1097,Circular 17 # 65-81,,Cúcuta,Norte de Santander,545444,Colombia,,,false,other,false,true
+114,1098,Transversal 49 # 90-40,,Medellín,Antioquia,056488,Colombia,,,false,home,true,true
+115,1099,Carrera 197 # 36-99,,Pereira,Risaralda,664112,Colombia,,A dos cuadras de la avenida principal,false,home,true,true
+116,1100,Transversal 134 # 45-16,Oficina 8,Barranquilla,Atlántico,084370,Colombia,,,false,work,true,false
+117,1101,Carrera 101 # 124-92,,Cali,Valle del Cauca,768521,Colombia,,Diagonal al centro comercial,false,other,true,false
+118,1102,Calle 18 # 49-33,Local 18,Cali,Valle del Cauca,765539,Colombia,,,false,other,true,false
+119,1103,Transversal 28 # 122-56,,Cartagena,Bolívar,132956,Colombia,Dejar con el portero,Al lado de la droguería,true,home,true,true
+120,1103,Transversal 138 # 69-17,Bloque G,Bogotá D.C.,Cundinamarca,111981,Colombia,Horario preferido: mañanas,,false,home,false,true
+121,1104,Carrera 57 # 147-97,,Medellín,Antioquia,056792,Colombia,,A dos cuadras de la avenida principal,false,work,true,true
+122,1105,Carrera 139 # 5-21,,Cali,Valle del Cauca,765419,Colombia,,Al lado del colegio San José,false,home,true,true
+123,1106,Transversal 43 # 45-29,,Barranquilla,Atlántico,081051,Colombia,"No dejar en portería, entregar en mano",,false,work,true,true
+124,1107,Calle 21 # 105-92,,Medellín,Antioquia,053463,Colombia,,Junto al CAI de policía,true,work,true,true
+125,1108,Diagonal 112 # 135-44,,Manizales,Caldas,179176,Colombia,,Diagonal a la universidad,false,home,true,true
+126,1109,Calle 154 # 97-22,Casa 7,Santa Marta,Magdalena,476148,Colombia,,Detrás del centro médico,false,home,true,true
+127,1110,Calle 176 # 145-32,,Barranquilla,Atlántico,082059,Colombia,,,false,home,true,true
+128,1111,Calle 126 # 112-93,,Cali,Valle del Cauca,767949,Colombia,"No dejar en portería, entregar en mano",Cerca de la estación del metro,false,other,true,true
+129,1112,Carrera 150 # 133-77,,Bogotá D.C.,Cundinamarca,114206,Colombia,,,false,work,true,true
+130,1113,Calle 158 # 142-07,,Bogotá D.C.,Cundinamarca,119605,Colombia,,,false,work,true,true
+131,1114,Carrera 105 # 80-22,,Bogotá D.C.,Cundinamarca,114798,Colombia,,,false,work,true,false
+132,1115,Carrera 74 # 141-61,Casa 8,Villavicencio,Meta,501281,Colombia,,Diagonal al centro comercial,true,home,true,true
+133,1116,Transversal 32 # 119-71,Bloque C,Bogotá D.C.,Cundinamarca,114060,Colombia,"Timbre no funciona, llamar al llegar",Junto a la estación de servicio,false,home,true,true
+134,1117,Transversal 130 # 15-51,,Bogotá D.C.,Cundinamarca,111792,Colombia,,,false,home,true,true
+135,1117,Transversal 72 # 119-32,,Cali,Valle del Cauca,762800,Colombia,,Al lado de la droguería,true,work,false,true
+136,1118,Transversal 126 # 102-71,,Barranquilla,Atlántico,087617,Colombia,,,false,home,true,true
+137,1119,Transversal 184 # 104-97,,Cúcuta,Norte de Santander,547679,Colombia,Parqueadero visitantes disponible,,false,home,true,true
+138,1120,Avenida 77 # 30-78,Local 13,Cúcuta,Norte de Santander,545907,Colombia,,Frente a la iglesia principal,false,home,true,true
+139,1121,Circular 193 # 38-58,Piso 5,Neiva,Huila,415947,Colombia,,Al lado del colegio San José,false,home,true,true
+140,1122,Diagonal 183 # 120-48,Local 5,Cali,Valle del Cauca,767812,Colombia,,A una cuadra del supermercado Éxito,false,work,true,true
+141,1123,Avenida 120 # 99-84,Apto 20,Bogotá D.C.,Cundinamarca,115816,Colombia,,,false,work,true,false
+142,1124,Calle 91 # 85-25,,Barranquilla,Atlántico,089302,Colombia,Dejar con el portero,A dos cuadras de la avenida principal,false,home,true,true
+143,1125,Circular 134 # 96-04,,Medellín,Antioquia,056472,Colombia,,,false,home,true,true
+144,1126,Transversal 150 # 32-57,Local 17,Bogotá D.C.,Cundinamarca,111592,Colombia,,,false,home,true,true
+145,1127,Diagonal 85 # 113-94,Oficina 5,Bogotá D.C.,Cundinamarca,113329,Colombia,,Junto al CAI de policía,false,home,true,true
+146,1128,Avenida 4 # 35-25,,Bogotá D.C.,Cundinamarca,114172,Colombia,,,false,home,true,true
+147,1129,Carrera 1 # 17-21,Oficina 16,Medellín,Antioquia,052082,Colombia,Entrada por la puerta lateral,,false,home,true,true
+148,1130,Circular 118 # 88-79,Oficina 16,Bogotá D.C.,Cundinamarca,115228,Colombia,,,false,work,true,false
+149,1130,Transversal 40 # 134-88,,Cali,Valle del Cauca,765018,Colombia,"Timbre no funciona, llamar al llegar",,false,other,false,true
+150,1131,Diagonal 14 # 77-33,,Ibagué,Tolima,733424,Colombia,,,false,other,true,true
+151,1132,Calle 179 # 139-65,,Bogotá D.C.,Cundinamarca,117551,Colombia,,Diagonal al centro comercial,false,home,true,true
+152,1132,Calle 199 # 81-08,,Pereira,Risaralda,668080,Colombia,Preguntar por el administrador,,false,work,false,true
+153,1133,Diagonal 102 # 55-52,,Cartagena,Bolívar,134852,Colombia,,,false,home,true,true
+154,1134,Transversal 97 # 22-13,,Cali,Valle del Cauca,761139,Colombia,Dejar en recepción del edificio,,true,other,true,false
+155,1134,Carrera 14 # 1-61,,Pereira,Risaralda,663186,Colombia,,,false,other,false,false
+156,1135,Transversal 23 # 11-22,Oficina 4,Manizales,Caldas,171638,Colombia,,Al lado de la droguería,false,work,true,true
+157,1136,Diagonal 126 # 28-35,,Bogotá D.C.,Cundinamarca,119619,Colombia,Entregar únicamente al titular,Diagonal al centro comercial,false,work,true,true
+158,1137,Circular 132 # 25-64,,Neiva,Huila,415648,Colombia,Parqueadero visitantes disponible,Junto a la estación de servicio,false,work,true,true
+159,1138,Avenida 76 # 103-54,Casa 10,Cartagena,Bolívar,136351,Colombia,Preguntar por el administrador,A una cuadra del supermercado Éxito,true,home,true,true
+160,1139,Carrera 28 # 115-17,,Bogotá D.C.,Cundinamarca,112203,Colombia,,A media cuadra del parque central,false,work,true,true
+161,1140,Circular 172 # 142-94,,Bogotá D.C.,Cundinamarca,114436,Colombia,,,false,home,true,true
+162,1141,Calle 13 # 9-33,,Cali,Valle del Cauca,769152,Colombia,,,false,work,true,true
+163,1142,Circular 182 # 109-85,,Cali,Valle del Cauca,764014,Colombia,"Llamar al llegar, no hay citófono",Cerca de la estación del metro,false,home,true,true
+164,1143,Carrera 11 # 36-31,,Cali,Valle del Cauca,769115,Colombia,,,false,home,true,true
+165,1144,Calle 162 # 93-92,,Armenia,Quindío,637111,Colombia,,Frente al hospital regional,false,home,true,true
+166,1145,Circular 189 # 130-36,,Manizales,Caldas,179662,Colombia,,,false,home,true,true
+167,1146,Calle 117 # 141-38,,Villavicencio,Meta,508478,Colombia,Horario preferido: mañanas,Diagonal al centro comercial,false,work,true,false
+168,1147,Transversal 60 # 81-76,,Cúcuta,Norte de Santander,545336,Colombia,,,true,home,true,true
+169,1148,Avenida 102 # 68-01,,Bucaramanga,Santander,681664,Colombia,Parqueadero visitantes disponible,,false,home,true,true
+170,1149,Avenida 138 # 140-54,,Bogotá D.C.,Cundinamarca,116016,Colombia,,,false,home,true,true
+171,1150,Circular 142 # 74-15,Local 18,Cartagena,Bolívar,136383,Colombia,"Si no hay nadie, dejar con el vecino del 202",Al lado del banco Bancolombia,true,home,true,true
+172,1151,Calle 26 # 34-96,Casa 10,Barranquilla,Atlántico,085212,Colombia,,,false,home,true,true
+173,1152,Avenida 80 # 139-89,,Bogotá D.C.,Cundinamarca,112123,Colombia,"Tocar fuerte, timbre dañado",,false,home,true,true
+174,1153,Calle 200 # 70-23,,Medellín,Antioquia,058393,Colombia,,,false,home,true,true
+175,1154,Calle 124 # 72-11,,Cartagena,Bolívar,132507,Colombia,,Frente a la iglesia principal,false,home,true,true
+176,1155,Transversal 197 # 23-09,,Bogotá D.C.,Cundinamarca,116604,Colombia,Parqueadero visitantes disponible,,false,other,true,false
+177,1156,Calle 88 # 100-97,,Cali,Valle del Cauca,769395,Colombia,,,false,home,true,true
+178,1157,Transversal 192 # 18-96,,Barranquilla,Atlántico,089099,Colombia,,,false,home,true,true
+179,1157,Calle 116 # 49-01,,Bogotá D.C.,Cundinamarca,111280,Colombia,,,false,work,false,false
+180,1158,Diagonal 22 # 35-13,,Cali,Valle del Cauca,762908,Colombia,,,false,home,true,true
+181,1159,Avenida 31 # 9-82,,Armenia,Quindío,636112,Colombia,,,true,home,true,true
+182,1160,Circular 36 # 67-49,Oficina 11,Medellín,Antioquia,057750,Colombia,,,false,home,true,true
+183,1161,Avenida 105 # 6-04,Oficina 6,Villavicencio,Meta,502524,Colombia,,,false,work,true,true
+184,1162,Avenida 197 # 86-41,Casa 19,Bogotá D.C.,Cundinamarca,114478,Colombia,,Al lado de la droguería,false,work,true,true
+185,1163,Calle 183 # 141-74,Torre E Apto 1448,Cartagena,Bolívar,135874,Colombia,Dejar en recepción del edificio,,true,work,true,true
+186,1164,Avenida 69 # 14-18,,Pereira,Risaralda,661065,Colombia,Preguntar por el administrador,Frente a la plaza de mercado,false,home,true,true
+187,1165,Transversal 144 # 64-11,,Bogotá D.C.,Cundinamarca,114033,Colombia,,,false,home,true,true
+188,1166,Diagonal 56 # 33-22,Piso 17,Bogotá D.C.,Cundinamarca,114909,Colombia,,Frente al hospital regional,false,home,true,true
+189,1167,Carrera 127 # 141-31,,Villavicencio,Meta,504457,Colombia,,Frente al hospital regional,false,home,true,true
+190,1168,Diagonal 149 # 74-35,,Bucaramanga,Santander,683042,Colombia,,Cerca del estadio municipal,true,home,true,true
+191,1168,Carrera 192 # 65-89,,Bucaramanga,Santander,684020,Colombia,,,false,home,false,true
+192,1169,Calle 60 # 64-96,,Ibagué,Tolima,732182,Colombia,,Frente a la iglesia principal,false,home,true,true
+193,1170,Circular 54 # 29-90,,Bogotá D.C.,Cundinamarca,112752,Colombia,,,false,home,true,true
+194,1171,Avenida 84 # 106-49,,Bogotá D.C.,Cundinamarca,115506,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+195,1172,Circular 63 # 126-63,Local 2,Manizales,Caldas,175130,Colombia,Preguntar por el administrador,Al lado de la droguería,false,home,true,true
+196,1173,Diagonal 29 # 74-19,,Medellín,Antioquia,053900,Colombia,,Frente al hospital regional,true,home,true,true
+197,1174,Circular 58 # 116-26,,Medellín,Antioquia,055515,Colombia,,,false,home,true,true
+198,1174,Carrera 5 # 61-83,,Barranquilla,Atlántico,084586,Colombia,,,false,home,false,true
+199,1175,Circular 95 # 134-33,,Medellín,Antioquia,055453,Colombia,,,false,home,true,true
+200,1176,Transversal 28 # 62-37,,Bogotá D.C.,Cundinamarca,115002,Colombia,,,false,home,true,true
+201,1177,Carrera 161 # 128-68,,Cartagena,Bolívar,131320,Colombia,,,false,home,true,true
+202,1178,Diagonal 50 # 48-14,Bloque G,Bogotá D.C.,Cundinamarca,115455,Colombia,,,false,other,true,true
+203,1179,Calle 98 # 121-80,,Cali,Valle del Cauca,765012,Colombia,,,false,work,true,true
+204,1180,Carrera 111 # 144-03,,Cartagena,Bolívar,132690,Colombia,,Al lado del banco Bancolombia,false,home,true,true
+205,1180,Transversal 190 # 19-14,,Barranquilla,Atlántico,089987,Colombia,,Frente a la iglesia principal,false,home,false,true
+206,1181,Calle 151 # 105-16,Bloque H Apto 292,Medellín,Antioquia,056583,Colombia,,,true,home,true,true
+207,1182,Transversal 192 # 62-06,,Cúcuta,Norte de Santander,545539,Colombia,,,false,home,true,true
+208,1183,Carrera 106 # 85-13,,Cartagena,Bolívar,134757,Colombia,,Al lado del banco Bancolombia,false,work,true,false
+209,1184,Circular 43 # 7-95,,Bucaramanga,Santander,681349,Colombia,,Junto a la estación de servicio,false,home,true,true
+210,1185,Carrera 54 # 51-17,,Bogotá D.C.,Cundinamarca,112003,Colombia,,A una cuadra del supermercado Éxito,true,work,true,false
+211,1186,Circular 194 # 77-88,,Cali,Valle del Cauca,762036,Colombia,,Junto al CAI de policía,true,home,true,true
+212,1187,Carrera 176 # 108-14,,Cartagena,Bolívar,133581,Colombia,"Tocar fuerte, timbre dañado",,false,home,true,true
+213,1188,Avenida 183 # 134-92,,Bogotá D.C.,Cundinamarca,119697,Colombia,,,false,work,true,false
+214,1189,Carrera 153 # 137-85,,Barranquilla,Atlántico,088357,Colombia,,,false,home,true,true
+215,1190,Transversal 55 # 6-26,,Medellín,Antioquia,057152,Colombia,,,true,home,true,true
+216,1191,Carrera 14 # 59-95,Piso 4,Santa Marta,Magdalena,478853,Colombia,,,false,work,true,true
+217,1192,Transversal 60 # 33-31,Torre B,Bogotá D.C.,Cundinamarca,112369,Colombia,,,false,home,true,true
+218,1192,Carrera 12 # 110-63,Casa 5,Bogotá D.C.,Cundinamarca,114612,Colombia,,A una cuadra del supermercado Éxito,false,home,false,true
+219,1193,Circular 140 # 21-95,Local 6,Ibagué,Tolima,735527,Colombia,,Al lado de la droguería,false,work,true,false
+220,1194,Calle 186 # 8-11,,Santa Marta,Magdalena,472328,Colombia,Llamar 10 minutos antes de llegar,,false,home,true,true
+221,1195,Circular 96 # 15-81,Torre A Apto 824,Cartagena,Bolívar,136125,Colombia,,Frente al hospital regional,false,work,true,true
+222,1196,Transversal 38 # 148-70,,Bogotá D.C.,Cundinamarca,119046,Colombia,,,false,work,true,true
+223,1197,Calle 81 # 98-61,,Cúcuta,Norte de Santander,548121,Colombia,,Al lado de la droguería,true,home,true,true
+224,1197,Diagonal 89 # 88-12,,Medellín,Antioquia,059452,Colombia,,Junto al CAI de policía,false,home,false,true
+225,1198,Avenida 131 # 59-42,,Bogotá D.C.,Cundinamarca,111802,Colombia,,,false,home,true,true
+226,1199,Transversal 183 # 11-81,,Bogotá D.C.,Cundinamarca,117663,Colombia,Dejar en recepción del edificio,,false,home,true,true
+227,1200,Calle 198 # 135-24,,Cali,Valle del Cauca,761994,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+228,1201,Calle 143 # 136-95,,Cartagena,Bolívar,135237,Colombia,,,false,home,true,true
+229,1202,Transversal 50 # 97-92,Torre B,Medellín,Antioquia,054968,Colombia,Dejar con el portero,Junto al CAI de policía,false,home,true,true
+230,1203,Transversal 147 # 79-53,,Bogotá D.C.,Cundinamarca,111339,Colombia,Dejar en recepción del edificio,,false,work,true,false
+231,1204,Carrera 27 # 80-33,,Barranquilla,Atlántico,081668,Colombia,,Junto al CAI de policía,false,work,true,true
+232,1205,Calle 48 # 104-30,Oficina 11,Medellín,Antioquia,059904,Colombia,,Frente al parque San Antonio,false,home,true,true
+233,1206,Diagonal 72 # 75-66,,Medellín,Antioquia,059689,Colombia,,,false,work,true,true
+234,1206,Circular 129 # 133-23,Oficina 11,Bucaramanga,Santander,683199,Colombia,,,true,work,false,true
+235,1207,Circular 15 # 75-31,,Manizales,Caldas,174541,Colombia,"Llamar al llegar, no hay citófono",,false,home,true,true
+236,1208,Avenida 182 # 32-51,Piso 5,Bucaramanga,Santander,682674,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,work,true,false
+237,1209,Calle 156 # 51-31,,Cartagena,Bolívar,134243,Colombia,,A media cuadra del parque central,false,home,true,true
+238,1210,Calle 186 # 20-11,Torre H Apto 771,Barranquilla,Atlántico,087378,Colombia,Celador autorizado para recibir,,false,work,true,true
+239,1211,Calle 48 # 54-04,Apto 19,Bogotá D.C.,Cundinamarca,112748,Colombia,,,false,work,true,true
+240,1212,Carrera 177 # 97-43,,Bogotá D.C.,Cundinamarca,119148,Colombia,,Esquina con la panadería Don Pan,false,work,true,false
+241,1213,Circular 55 # 101-48,,Cúcuta,Norte de Santander,546665,Colombia,"Timbre no funciona, llamar al llegar",Diagonal al centro comercial,false,work,true,false
+242,1214,Avenida 28 # 139-38,,Bucaramanga,Santander,687504,Colombia,,Frente al parque San Antonio,false,work,true,true
+243,1215,Circular 41 # 56-78,,Bogotá D.C.,Cundinamarca,113422,Colombia,Preguntar por el administrador,A media cuadra del parque central,false,home,true,true
+244,1216,Circular 191 # 76-17,,Bogotá D.C.,Cundinamarca,117672,Colombia,,Frente a la plaza de mercado,false,work,true,true
+245,1217,Diagonal 110 # 112-96,,Cartagena,Bolívar,132572,Colombia,"Tocar fuerte, timbre dañado",,false,work,true,false
+246,1218,Transversal 53 # 93-50,,Bogotá D.C.,Cundinamarca,112448,Colombia,,,false,home,true,true
+247,1219,Avenida 191 # 55-13,Piso 7,Bogotá D.C.,Cundinamarca,115161,Colombia,,Al lado del banco Bancolombia,false,home,true,true
+248,1220,Calle 125 # 125-55,Bloque C Apto 1175,Bucaramanga,Santander,685321,Colombia,,,false,home,true,true
+249,1221,Calle 136 # 115-25,,Bucaramanga,Santander,684889,Colombia,,,false,work,true,true
+250,1221,Carrera 60 # 96-79,Apto 4,Bogotá D.C.,Cundinamarca,117071,Colombia,,,false,home,false,true
+251,1222,Transversal 149 # 17-38,,Cali,Valle del Cauca,763978,Colombia,,,false,home,true,true
+252,1223,Diagonal 194 # 147-80,Local 20,Bogotá D.C.,Cundinamarca,117158,Colombia,,,false,home,true,true
+253,1224,Transversal 191 # 117-12,Oficina 5,Armenia,Quindío,639769,Colombia,,,false,home,true,true
+254,1225,Avenida 145 # 27-38,,Bogotá D.C.,Cundinamarca,119199,Colombia,,,false,work,true,false
+255,1226,Calle 48 # 58-38,Piso 14,Bogotá D.C.,Cundinamarca,117622,Colombia,,,true,home,true,true
+256,1227,Transversal 122 # 40-51,,Bogotá D.C.,Cundinamarca,118490,Colombia,,,true,home,true,true
+257,1228,Carrera 80 # 144-93,,Pasto,Nariño,524610,Colombia,,,false,home,true,true
+258,1229,Carrera 169 # 144-97,,Cartagena,Bolívar,135664,Colombia,,,false,work,true,true
+259,1230,Circular 145 # 112-44,,Bogotá D.C.,Cundinamarca,113412,Colombia,,,false,home,true,true
+260,1231,Avenida 24 # 141-49,,Pereira,Risaralda,666647,Colombia,,Frente a la iglesia principal,true,home,true,true
+261,1232,Calle 173 # 38-99,,Barranquilla,Atlántico,089659,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+262,1232,Diagonal 139 # 39-31,,Medellín,Antioquia,056091,Colombia,,Al lado de la droguería,false,work,false,true
+263,1233,Carrera 1 # 2-86,Local 20,Pasto,Nariño,527400,Colombia,,Al lado de la droguería,false,other,true,true
+264,1234,Calle 21 # 50-79,,Medellín,Antioquia,051417,Colombia,Dejar con el portero,Al lado de la droguería,false,home,true,true
+265,1235,Circular 156 # 19-95,,Medellín,Antioquia,058424,Colombia,,Frente al hospital regional,false,home,true,true
+266,1236,Circular 106 # 37-07,Casa 9,Barranquilla,Atlántico,085425,Colombia,Preguntar por el administrador,,false,home,true,true
+267,1237,Circular 115 # 36-93,,Bogotá D.C.,Cundinamarca,117744,Colombia,,,false,home,true,true
+268,1238,Circular 126 # 122-50,Casa 19,Bogotá D.C.,Cundinamarca,112094,Colombia,,Junto al CAI de policía,false,home,true,true
+269,1239,Calle 50 # 51-26,,Medellín,Antioquia,052461,Colombia,,,false,work,true,true
+270,1240,Diagonal 28 # 120-70,Local 1,Cali,Valle del Cauca,764357,Colombia,,,false,home,true,true
+271,1241,Carrera 1 # 98-15,,Cúcuta,Norte de Santander,547912,Colombia,Celador autorizado para recibir,,false,home,true,true
+272,1242,Transversal 89 # 97-16,,Cartagena,Bolívar,138331,Colombia,"Si no hay nadie, dejar con el vecino del 202",,false,home,true,true
+273,1243,Carrera 149 # 83-07,,Ibagué,Tolima,737481,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+274,1244,Carrera 116 # 53-88,,Bogotá D.C.,Cundinamarca,112664,Colombia,,,false,work,true,false
+275,1245,Circular 132 # 44-24,,Cartagena,Bolívar,133645,Colombia,,,false,home,true,true
+276,1246,Calle 161 # 50-34,,Bogotá D.C.,Cundinamarca,117879,Colombia,Celador autorizado para recibir,Cerca del estadio municipal,false,home,true,true
+277,1247,Carrera 195 # 110-30,Torre D Apto 1837,Barranquilla,Atlántico,089442,Colombia,"Si no hay nadie, dejar con el vecino del 202",,false,home,true,true
+278,1248,Diagonal 190 # 6-64,Torre G,Bucaramanga,Santander,682949,Colombia,,,false,work,true,true
+279,1249,Transversal 200 # 38-02,,Cali,Valle del Cauca,761036,Colombia,,Junto a la estación de servicio,false,home,true,true
+280,1250,Circular 41 # 23-51,,Cali,Valle del Cauca,766997,Colombia,Horario preferido: mañanas,,false,home,true,true
+281,1251,Diagonal 146 # 39-94,,Medellín,Antioquia,053854,Colombia,Entregar únicamente al titular,Junto al CAI de policía,false,work,true,false
+282,1252,Transversal 137 # 69-31,,Bucaramanga,Santander,689877,Colombia,,,true,home,true,true
+283,1253,Avenida 9 # 59-85,Local 20,Bogotá D.C.,Cundinamarca,115108,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+284,1254,Transversal 132 # 142-81,,Villavicencio,Meta,502376,Colombia,,,false,home,true,true
+285,1255,Calle 178 # 113-12,,Pasto,Nariño,523933,Colombia,Celador autorizado para recibir,,false,home,true,true
+286,1256,Circular 48 # 7-79,,Armenia,Quindío,637233,Colombia,,,true,home,true,true
+287,1256,Diagonal 157 # 137-64,,Barranquilla,Atlántico,083456,Colombia,,,false,work,false,false
+288,1257,Avenida 133 # 148-26,,Bogotá D.C.,Cundinamarca,111625,Colombia,,,false,home,true,true
+289,1258,Carrera 175 # 61-48,,Pereira,Risaralda,665412,Colombia,,,false,work,true,true
+290,1259,Transversal 85 # 117-73,,Villavicencio,Meta,503045,Colombia,Entrada por la puerta lateral,,false,home,true,true
+291,1260,Avenida 65 # 47-68,,Cali,Valle del Cauca,767456,Colombia,Horario preferido: mañanas,,false,home,true,true
+292,1261,Circular 35 # 137-95,,Medellín,Antioquia,055411,Colombia,,,false,work,true,true
+293,1262,Calle 88 # 104-22,,Bucaramanga,Santander,686371,Colombia,"Llamar al llegar, no hay citófono",Cerca del estadio municipal,false,work,true,true
+294,1263,Carrera 104 # 57-89,,Bucaramanga,Santander,689679,Colombia,,,false,work,true,false
+295,1264,Transversal 182 # 101-48,,Bogotá D.C.,Cundinamarca,119022,Colombia,,,false,home,true,true
+296,1265,Transversal 83 # 125-99,,Bogotá D.C.,Cundinamarca,115287,Colombia,Llamar 10 minutos antes de llegar,Esquina con la panadería Don Pan,false,work,true,false
+297,1266,Calle 124 # 124-22,,Bogotá D.C.,Cundinamarca,119544,Colombia,,Al lado del colegio San José,false,home,true,true
+298,1267,Carrera 101 # 79-12,,Cali,Valle del Cauca,768433,Colombia,Parqueadero visitantes disponible,Esquina con la panadería Don Pan,false,home,true,true
+299,1268,Carrera 108 # 122-94,Torre B,Cúcuta,Norte de Santander,547983,Colombia,,Frente al parque San Antonio,false,home,true,true
+300,1269,Circular 165 # 28-37,Piso 3,Bogotá D.C.,Cundinamarca,111576,Colombia,,Junto al CAI de policía,false,work,true,true
+301,1269,Transversal 122 # 144-08,,Bucaramanga,Santander,683156,Colombia,,Frente a la plaza de mercado,false,work,false,true
+302,1270,Avenida 103 # 42-18,Torre G,Armenia,Quindío,636315,Colombia,,,false,work,true,true
+303,1271,Avenida 43 # 36-64,Torre F Apto 1930,Medellín,Antioquia,055581,Colombia,,Al lado del banco Bancolombia,false,work,true,true
+304,1271,Transversal 74 # 46-65,,Ibagué,Tolima,732944,Colombia,,,false,work,false,true
+305,1272,Calle 11 # 40-40,,Bogotá D.C.,Cundinamarca,114761,Colombia,,,true,home,true,true
+306,1273,Calle 84 # 82-09,,Pereira,Risaralda,666308,Colombia,,Frente a la iglesia principal,false,home,true,true
+307,1274,Carrera 175 # 26-37,,Villavicencio,Meta,509516,Colombia,,Cerca del estadio municipal,false,other,true,false
+308,1275,Diagonal 115 # 113-93,Bloque G,Medellín,Antioquia,051104,Colombia,Parqueadero visitantes disponible,,false,home,true,true
+309,1276,Avenida 54 # 18-68,,Cali,Valle del Cauca,763832,Colombia,,,false,home,true,true
+310,1277,Carrera 52 # 37-83,,Bogotá D.C.,Cundinamarca,115994,Colombia,,Frente al parque San Antonio,false,home,true,true
+311,1278,Avenida 126 # 41-27,Local 12,Barranquilla,Atlántico,081396,Colombia,,,false,work,true,false
+312,1279,Carrera 90 # 123-60,,Bogotá D.C.,Cundinamarca,116950,Colombia,,A una cuadra del supermercado Éxito,false,work,true,false
+313,1280,Carrera 159 # 24-66,Piso 15,Cali,Valle del Cauca,767265,Colombia,,,false,home,true,true
+314,1281,Carrera 184 # 113-16,,Bucaramanga,Santander,683876,Colombia,"Si no hay nadie, dejar con el vecino del 202",Diagonal a la universidad,false,work,true,false
+315,1282,Transversal 48 # 8-42,,Pereira,Risaralda,663542,Colombia,,,false,work,true,false
+316,1283,Circular 110 # 84-85,Apto 10,Bogotá D.C.,Cundinamarca,114871,Colombia,,Junto a la estación de servicio,false,home,true,true
+317,1284,Transversal 139 # 53-41,,Medellín,Antioquia,056047,Colombia,,Diagonal a la universidad,false,work,true,true
+318,1285,Avenida 64 # 6-74,,Cali,Valle del Cauca,765159,Colombia,,,false,work,true,true
+319,1286,Transversal 150 # 113-01,,Barranquilla,Atlántico,083856,Colombia,,A media cuadra del parque central,false,work,true,true
+320,1286,Diagonal 185 # 29-28,,Cartagena,Bolívar,136355,Colombia,Celador autorizado para recibir,,false,home,false,true
+321,1287,Circular 193 # 26-18,Local 2,Bogotá D.C.,Cundinamarca,119978,Colombia,"Timbre no funciona, llamar al llegar",,false,home,true,true
+322,1288,Circular 120 # 133-65,,Cúcuta,Norte de Santander,548182,Colombia,,Frente a la plaza de mercado,false,home,true,true
+323,1289,Circular 137 # 101-08,Piso 2,Medellín,Antioquia,054309,Colombia,"No dejar en portería, entregar en mano",Junto al CAI de policía,false,work,true,false
+324,1289,Avenida 29 # 118-09,,Bucaramanga,Santander,683670,Colombia,,,false,other,false,true
+325,1290,Carrera 165 # 148-22,Bloque F Apto 290,Neiva,Huila,415960,Colombia,"No dejar en portería, entregar en mano",,false,home,true,true
+326,1291,Carrera 2 # 148-54,Apto 7,Cúcuta,Norte de Santander,549189,Colombia,Dejar con el portero,Al lado de la droguería,false,work,true,true
+327,1291,Calle 176 # 118-53,,Bogotá D.C.,Cundinamarca,113287,Colombia,Entregar únicamente al titular,,false,home,false,true
+328,1292,Diagonal 27 # 34-24,,Cali,Valle del Cauca,761522,Colombia,,,false,work,true,false
+329,1293,Carrera 160 # 55-05,,Medellín,Antioquia,054153,Colombia,,A dos cuadras de la avenida principal,true,home,true,true
+330,1294,Circular 78 # 134-14,,Pereira,Risaralda,665621,Colombia,Dejar con el portero,A dos cuadras de la avenida principal,false,home,true,true
+331,1295,Avenida 3 # 148-86,,Bogotá D.C.,Cundinamarca,113205,Colombia,"No dejar en portería, entregar en mano",Frente al parque San Antonio,false,home,true,true
+332,1296,Avenida 90 # 98-09,Bloque A Apto 540,Santa Marta,Magdalena,476656,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,work,true,true
+333,1297,Calle 37 # 71-25,,Barranquilla,Atlántico,086882,Colombia,,,false,work,true,true
+334,1298,Avenida 20 # 40-04,,Bogotá D.C.,Cundinamarca,118894,Colombia,,,false,home,true,true
+335,1299,Transversal 127 # 72-08,,Medellín,Antioquia,052007,Colombia,,,true,home,true,true
+336,1300,Calle 106 # 59-17,,Bucaramanga,Santander,685610,Colombia,,,false,home,true,true
+337,1301,Circular 162 # 2-29,Piso 10,Bogotá D.C.,Cundinamarca,111530,Colombia,Dejar con el portero,Frente a la plaza de mercado,false,home,true,true
+338,1302,Transversal 197 # 116-48,,Cartagena,Bolívar,136050,Colombia,,Frente a la plaza de mercado,false,home,true,true
+339,1303,Carrera 65 # 123-14,,Bogotá D.C.,Cundinamarca,115114,Colombia,,Al lado de la droguería,false,work,true,false
+340,1304,Calle 10 # 54-04,Bloque G Apto 306,Cartagena,Bolívar,138361,Colombia,,,true,home,true,true
+341,1305,Calle 140 # 4-67,,Cartagena,Bolívar,137000,Colombia,,Frente al parque San Antonio,false,home,true,true
+342,1306,Circular 16 # 119-11,,Cali,Valle del Cauca,761695,Colombia,,Al lado de la droguería,false,home,true,true
+343,1307,Calle 74 # 93-68,Local 10,Bogotá D.C.,Cundinamarca,114268,Colombia,,Frente a la iglesia principal,true,home,true,true
+344,1308,Avenida 137 # 136-87,,Bogotá D.C.,Cundinamarca,117978,Colombia,,,false,home,true,true
+345,1309,Calle 86 # 51-86,Piso 7,Bucaramanga,Santander,687595,Colombia,"Llamar al llegar, no hay citófono",,false,home,true,true
+346,1310,Diagonal 112 # 39-11,,Barranquilla,Atlántico,082049,Colombia,,,false,home,true,true
+347,1311,Calle 69 # 104-54,,Bogotá D.C.,Cundinamarca,116088,Colombia,,,true,home,true,true
+348,1311,Calle 115 # 125-86,,Bogotá D.C.,Cundinamarca,115133,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,work,false,false
+349,1312,Circular 145 # 70-74,,Bogotá D.C.,Cundinamarca,115084,Colombia,,,false,home,true,true
+350,1313,Transversal 156 # 129-05,Oficina 20,Medellín,Antioquia,059141,Colombia,,Frente al hospital regional,false,home,true,true
+351,1314,Calle 51 # 119-76,,Pereira,Risaralda,662970,Colombia,,A dos cuadras de la avenida principal,false,home,true,true
+352,1315,Calle 39 # 56-63,,Cali,Valle del Cauca,761804,Colombia,,,false,work,true,false
+353,1316,Carrera 54 # 132-86,,Barranquilla,Atlántico,085736,Colombia,,,false,home,true,true
+354,1317,Calle 183 # 68-22,Piso 5,Bogotá D.C.,Cundinamarca,111431,Colombia,"Timbre no funciona, llamar al llegar",,false,home,true,true
+355,1318,Calle 23 # 106-08,Bloque A Apto 1453,Bogotá D.C.,Cundinamarca,115251,Colombia,Entrada por la puerta lateral,,false,other,true,true
+356,1318,Circular 180 # 147-66,,Cali,Valle del Cauca,768349,Colombia,,,true,work,false,true
+357,1319,Transversal 161 # 75-85,,Cartagena,Bolívar,132156,Colombia,,,false,home,true,true
+358,1320,Carrera 195 # 31-58,Oficina 17,Bogotá D.C.,Cundinamarca,119407,Colombia,,Diagonal a la universidad,false,home,true,true
+359,1321,Transversal 45 # 16-04,,Bogotá D.C.,Cundinamarca,111767,Colombia,,Diagonal al centro comercial,false,home,true,true
+360,1322,Diagonal 145 # 22-39,,Bogotá D.C.,Cundinamarca,112499,Colombia,,,false,home,true,true
+361,1323,Circular 152 # 70-22,,Cartagena,Bolívar,137938,Colombia,,,false,work,true,true
+362,1324,Diagonal 171 # 13-35,,Manizales,Caldas,176810,Colombia,Dejar con el portero,Diagonal al centro comercial,false,home,true,true
+363,1325,Diagonal 12 # 127-71,,Cali,Valle del Cauca,763900,Colombia,,,false,home,true,true
+364,1325,Avenida 186 # 97-46,,Medellín,Antioquia,058540,Colombia,,,false,work,false,true
+365,1326,Calle 155 # 108-90,,Pereira,Risaralda,667165,Colombia,,Cerca de la estación del metro,false,home,true,true
+366,1326,Diagonal 131 # 80-20,,Medellín,Antioquia,051190,Colombia,Horario preferido: mañanas,A una cuadra del supermercado Éxito,false,other,false,true
+367,1327,Circular 105 # 71-70,,Medellín,Antioquia,051005,Colombia,,,false,home,true,true
+368,1328,Diagonal 137 # 129-30,,Cartagena,Bolívar,138141,Colombia,"No dejar en portería, entregar en mano",A una cuadra del supermercado Éxito,false,work,true,true
+369,1329,Calle 109 # 6-80,Apto 10,Bucaramanga,Santander,682210,Colombia,Parqueadero visitantes disponible,Al lado del colegio San José,false,work,true,true
+370,1330,Carrera 183 # 105-14,,Bogotá D.C.,Cundinamarca,118784,Colombia,,,false,other,true,true
+371,1331,Avenida 143 # 131-13,,Medellín,Antioquia,051359,Colombia,,Cerca de la estación del metro,false,home,true,true
+372,1332,Calle 158 # 25-55,,Medellín,Antioquia,051517,Colombia,,,false,work,true,true
+373,1332,Diagonal 194 # 124-96,,Bogotá D.C.,Cundinamarca,119450,Colombia,"No dejar en portería, entregar en mano",,false,work,false,true
+374,1333,Circular 1 # 103-60,Casa 4,Cartagena,Bolívar,135448,Colombia,"No dejar en portería, entregar en mano",,false,home,true,true
+375,1334,Avenida 160 # 48-51,,Medellín,Antioquia,055342,Colombia,,,false,work,true,true
+376,1335,Diagonal 179 # 141-57,,Bucaramanga,Santander,689302,Colombia,,Diagonal al centro comercial,false,home,true,true
+377,1336,Circular 13 # 29-16,,Cali,Valle del Cauca,763958,Colombia,"Si no hay nadie, dejar con el vecino del 202",,false,home,true,true
+378,1337,Circular 12 # 90-15,,Cali,Valle del Cauca,762287,Colombia,,,false,home,true,true
+379,1338,Transversal 102 # 54-54,,Pasto,Nariño,527730,Colombia,,,false,home,true,true
+380,1339,Avenida 154 # 15-49,,Cali,Valle del Cauca,761805,Colombia,"Si no hay nadie, dejar con el vecino del 202",,false,home,true,true
+381,1340,Transversal 65 # 46-07,,Cartagena,Bolívar,137165,Colombia,,,false,work,true,false
+382,1341,Diagonal 111 # 128-53,,Cúcuta,Norte de Santander,548140,Colombia,,Detrás del centro médico,false,work,true,true
+383,1342,Avenida 138 # 8-74,,Barranquilla,Atlántico,086054,Colombia,,,false,home,true,true
+384,1343,Calle 109 # 34-32,Oficina 9,Cúcuta,Norte de Santander,547626,Colombia,,,false,home,true,true
+385,1344,Avenida 180 # 75-07,,Barranquilla,Atlántico,086472,Colombia,,Al lado de la droguería,true,work,true,true
+386,1345,Calle 45 # 39-38,,Bogotá D.C.,Cundinamarca,118404,Colombia,,,false,home,true,true
+387,1346,Carrera 196 # 81-79,,Cali,Valle del Cauca,761454,Colombia,"Tocar fuerte, timbre dañado",Esquina con la panadería Don Pan,true,work,true,false
+388,1347,Transversal 133 # 100-08,,Medellín,Antioquia,059795,Colombia,Preguntar por el administrador,,false,home,true,true
+389,1348,Transversal 33 # 51-11,,Cartagena,Bolívar,136871,Colombia,,,true,work,true,true
+390,1349,Diagonal 68 # 43-82,Apto 5,Ibagué,Tolima,732817,Colombia,,Frente al hospital regional,false,work,true,false
+391,1350,Carrera 111 # 89-90,,Cali,Valle del Cauca,767322,Colombia,,,false,home,true,true
+392,1350,Carrera 95 # 68-66,,Pereira,Risaralda,663095,Colombia,Celador autorizado para recibir,,false,work,false,true
+393,1351,Avenida 13 # 9-87,Oficina 10,Pasto,Nariño,527019,Colombia,,,false,work,true,false
+394,1352,Calle 36 # 50-20,Local 10,Bogotá D.C.,Cundinamarca,119802,Colombia,,,false,home,true,true
+395,1353,Circular 22 # 116-57,Local 7,Cúcuta,Norte de Santander,544979,Colombia,,,false,home,true,true
+396,1354,Calle 50 # 143-69,,Bogotá D.C.,Cundinamarca,113780,Colombia,,,false,home,true,true
+397,1355,Calle 18 # 100-32,Oficina 11,Cartagena,Bolívar,134184,Colombia,Entregar únicamente al titular,,false,home,true,true
+398,1356,Transversal 38 # 69-80,Oficina 8,Cartagena,Bolívar,136006,Colombia,Parqueadero visitantes disponible,,false,home,true,true
+399,1357,Transversal 18 # 102-57,,Bogotá D.C.,Cundinamarca,115695,Colombia,,Al lado del banco Bancolombia,false,home,true,true
+400,1358,Avenida 172 # 93-34,,Medellín,Antioquia,051876,Colombia,,A dos cuadras de la avenida principal,false,home,true,true
+401,1359,Transversal 159 # 56-58,Torre B,Barranquilla,Atlántico,086251,Colombia,Entregar únicamente al titular,A dos cuadras de la avenida principal,false,home,true,true
+402,1360,Avenida 138 # 99-80,,Pereira,Risaralda,667972,Colombia,,,false,work,true,false
+403,1361,Calle 79 # 81-62,,Cúcuta,Norte de Santander,543176,Colombia,,Diagonal a la universidad,false,home,true,true
+404,1362,Calle 23 # 139-96,Bloque E,Medellín,Antioquia,053165,Colombia,,,false,home,true,true
+405,1363,Transversal 61 # 61-73,Casa 4,Bogotá D.C.,Cundinamarca,119191,Colombia,Entrada por la puerta lateral,,false,home,true,true
+406,1363,Transversal 132 # 13-92,,Bogotá D.C.,Cundinamarca,114474,Colombia,Dejar con el portero,Esquina con la panadería Don Pan,true,home,false,true
+407,1364,Calle 17 # 134-50,,Bogotá D.C.,Cundinamarca,117216,Colombia,Entrada por la puerta lateral,A dos cuadras de la avenida principal,false,home,true,true
+408,1365,Diagonal 32 # 3-71,,Ibagué,Tolima,735841,Colombia,Dejar en recepción del edificio,,false,work,true,true
+409,1366,Avenida 82 # 63-83,Torre A Apto 666,Bucaramanga,Santander,687899,Colombia,,,false,home,true,true
+410,1367,Avenida 105 # 81-87,Apto 1,Cali,Valle del Cauca,764253,Colombia,,,false,work,true,false
+411,1368,Avenida 72 # 85-96,,Bogotá D.C.,Cundinamarca,118168,Colombia,,Al lado de la droguería,false,other,true,false
+412,1369,Avenida 24 # 19-02,Local 12,Barranquilla,Atlántico,085900,Colombia,,,false,work,true,false
+413,1370,Calle 115 # 139-42,,Medellín,Antioquia,055405,Colombia,,,false,home,true,true
+414,1371,Transversal 195 # 50-56,,Armenia,Quindío,634314,Colombia,,A dos cuadras de la avenida principal,false,home,true,true
+415,1372,Carrera 100 # 118-02,,Cali,Valle del Cauca,769846,Colombia,,,false,home,true,true
+416,1373,Transversal 175 # 125-79,,Barranquilla,Atlántico,081501,Colombia,,,false,home,true,true
+417,1374,Transversal 117 # 97-03,,Bogotá D.C.,Cundinamarca,114878,Colombia,Dejar con el portero,Frente a la plaza de mercado,false,other,true,true
+418,1375,Carrera 98 # 4-39,Torre A Apto 1938,Bucaramanga,Santander,687038,Colombia,,,false,home,true,true
+419,1376,Avenida 31 # 118-63,,Cartagena,Bolívar,132478,Colombia,,Detrás del centro médico,false,home,true,true
+420,1377,Calle 139 # 142-19,,Bogotá D.C.,Cundinamarca,117599,Colombia,,,false,home,true,true
+421,1378,Avenida 132 # 20-58,,Barranquilla,Atlántico,085330,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+422,1379,Avenida 96 # 125-06,,Manizales,Caldas,179286,Colombia,Parqueadero visitantes disponible,,false,work,true,true
+423,1380,Circular 148 # 5-94,,Bogotá D.C.,Cundinamarca,117542,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,other,true,true
+424,1381,Carrera 72 # 121-23,,Medellín,Antioquia,056375,Colombia,,,false,home,true,true
+425,1382,Transversal 167 # 133-24,,Cartagena,Bolívar,135289,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+426,1383,Avenida 2 # 124-09,,Cartagena,Bolívar,136757,Colombia,,,false,home,true,true
+427,1384,Transversal 96 # 1-79,,Bogotá D.C.,Cundinamarca,118599,Colombia,,Diagonal al centro comercial,false,home,true,true
+428,1385,Calle 191 # 93-30,Piso 15,Pasto,Nariño,521872,Colombia,,Al lado de la droguería,true,home,true,true
+429,1385,Transversal 81 # 4-01,Oficina 3,Barranquilla,Atlántico,089260,Colombia,,A media cuadra del parque central,false,home,false,true
+430,1386,Carrera 146 # 134-60,,Pereira,Risaralda,664495,Colombia,,,false,home,true,true
+431,1387,Calle 106 # 23-80,Torre C Apto 515,Barranquilla,Atlántico,086093,Colombia,,Diagonal al centro comercial,true,home,true,true
+432,1388,Avenida 199 # 144-85,,Bogotá D.C.,Cundinamarca,114633,Colombia,,Detrás del centro médico,false,work,true,false
+433,1389,Diagonal 66 # 135-98,Casa 11,Cali,Valle del Cauca,763480,Colombia,,Cerca de la estación del metro,false,home,true,true
+434,1390,Diagonal 115 # 50-76,,Pasto,Nariño,525118,Colombia,,,false,home,true,true
+435,1391,Avenida 59 # 98-81,Oficina 13,Bogotá D.C.,Cundinamarca,113259,Colombia,,Al lado de la droguería,false,home,true,true
+436,1392,Circular 13 # 101-47,,Medellín,Antioquia,056497,Colombia,,Junto al CAI de policía,false,home,true,true
+437,1393,Calle 153 # 9-70,Piso 11,Villavicencio,Meta,502755,Colombia,"Si no hay nadie, dejar con el vecino del 202",,false,home,true,true
+438,1394,Calle 60 # 26-11,Local 17,Cúcuta,Norte de Santander,547355,Colombia,"Si no hay nadie, dejar con el vecino del 202",A media cuadra del parque central,false,work,true,true
+439,1395,Calle 176 # 46-22,,Cali,Valle del Cauca,767653,Colombia,,Al lado del colegio San José,false,work,true,true
+440,1396,Circular 46 # 1-11,,Bogotá D.C.,Cundinamarca,113985,Colombia,,Frente a la plaza de mercado,false,home,true,true
+441,1397,Diagonal 195 # 13-11,,Bogotá D.C.,Cundinamarca,116525,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,home,true,true
+442,1398,Circular 176 # 67-57,,Pereira,Risaralda,666567,Colombia,"No dejar en portería, entregar en mano",Cerca del estadio municipal,true,home,true,true
+443,1399,Carrera 119 # 141-07,Bloque F Apto 1971,Bogotá D.C.,Cundinamarca,114778,Colombia,,,true,other,true,true
+444,1400,Transversal 56 # 78-99,Casa 19,Manizales,Caldas,172941,Colombia,Horario preferido: mañanas,Al lado de la droguería,false,home,true,true
+445,1401,Transversal 179 # 73-09,,Cartagena,Bolívar,135913,Colombia,,,false,other,true,true
+446,1402,Transversal 45 # 140-46,,Cúcuta,Norte de Santander,544991,Colombia,,,false,home,true,true
+447,1403,Calle 9 # 16-53,Torre A Apto 915,Cali,Valle del Cauca,768020,Colombia,,,false,home,true,true
+448,1404,Circular 113 # 123-34,,Cali,Valle del Cauca,764958,Colombia,,,false,home,true,true
+449,1405,Circular 50 # 146-37,,Medellín,Antioquia,057143,Colombia,,Junto al CAI de policía,false,home,true,true
+450,1406,Avenida 84 # 3-28,,Bogotá D.C.,Cundinamarca,116700,Colombia,,Frente a la iglesia principal,false,home,true,true
+451,1407,Diagonal 48 # 74-14,,Bogotá D.C.,Cundinamarca,115174,Colombia,"Timbre no funciona, llamar al llegar",,false,home,true,true
+452,1408,Carrera 57 # 57-40,,Neiva,Huila,412560,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,home,true,true
+453,1409,Circular 12 # 92-32,,Barranquilla,Atlántico,089863,Colombia,,,false,home,true,true
+454,1410,Calle 99 # 101-57,,Bogotá D.C.,Cundinamarca,113229,Colombia,,A media cuadra del parque central,false,work,true,true
+455,1410,Transversal 143 # 140-58,,Pasto,Nariño,524048,Colombia,Entregar únicamente al titular,,false,work,false,true
+456,1411,Carrera 108 # 46-02,Casa 15,Medellín,Antioquia,057062,Colombia,,Cerca de la estación del metro,false,home,true,true
+457,1412,Circular 153 # 33-01,Apto 3,Bogotá D.C.,Cundinamarca,116640,Colombia,,A dos cuadras de la avenida principal,true,home,true,true
+458,1413,Carrera 26 # 44-09,,Santa Marta,Magdalena,479592,Colombia,,,false,work,true,false
+459,1414,Calle 112 # 28-99,,Bucaramanga,Santander,688152,Colombia,Horario preferido: mañanas,A dos cuadras de la avenida principal,true,home,true,true
+460,1415,Transversal 192 # 119-89,Casa 4,Cali,Valle del Cauca,767254,Colombia,,Al lado de la droguería,false,work,true,false
+461,1416,Transversal 196 # 56-09,,Barranquilla,Atlántico,087151,Colombia,,Cerca del estadio municipal,false,work,true,true
+462,1417,Calle 169 # 25-66,,Medellín,Antioquia,058811,Colombia,"Timbre no funciona, llamar al llegar",Frente a la iglesia principal,false,home,true,true
+463,1418,Carrera 35 # 40-08,,Cúcuta,Norte de Santander,545545,Colombia,,,false,work,true,false
+464,1419,Circular 29 # 17-54,Oficina 19,Cartagena,Bolívar,134215,Colombia,,,false,work,true,true
+465,1420,Carrera 13 # 71-92,,Pereira,Risaralda,664588,Colombia,,Diagonal a la universidad,false,work,true,true
+466,1421,Carrera 96 # 50-06,Piso 5,Bogotá D.C.,Cundinamarca,119246,Colombia,Horario preferido: mañanas,,false,home,true,true
+467,1422,Circular 15 # 89-92,Casa 15,Bogotá D.C.,Cundinamarca,118486,Colombia,,Esquina con la panadería Don Pan,false,home,true,true
+468,1423,Calle 176 # 6-84,,Armenia,Quindío,632468,Colombia,,,false,work,true,true
+469,1424,Transversal 11 # 41-75,Torre D,Cali,Valle del Cauca,761477,Colombia,,,false,work,true,true
+470,1425,Diagonal 42 # 39-73,,Cali,Valle del Cauca,764326,Colombia,,,true,home,true,true
+471,1426,Transversal 95 # 107-51,,Cali,Valle del Cauca,761664,Colombia,,,false,home,true,true
+472,1427,Diagonal 93 # 93-08,,Cartagena,Bolívar,135701,Colombia,,,false,home,true,true
+473,1428,Diagonal 51 # 79-78,Bloque D Apto 805,Barranquilla,Atlántico,081139,Colombia,,,false,home,true,true
+474,1429,Diagonal 35 # 112-16,,Bogotá D.C.,Cundinamarca,113406,Colombia,,,false,work,true,false
+475,1430,Transversal 179 # 83-35,,Pereira,Risaralda,662661,Colombia,,,false,other,true,true
+476,1431,Transversal 176 # 26-95,,Cartagena,Bolívar,137677,Colombia,Llamar 10 minutos antes de llegar,,false,work,true,false
+477,1432,Circular 98 # 68-29,,Bucaramanga,Santander,686551,Colombia,,,false,other,true,true
+478,1433,Carrera 94 # 15-47,,Barranquilla,Atlántico,084684,Colombia,Llamar 10 minutos antes de llegar,,true,home,true,true
+479,1434,Calle 181 # 94-86,,Bogotá D.C.,Cundinamarca,117646,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,Diagonal a la universidad,false,home,true,true
+480,1435,Transversal 173 # 69-64,,Santa Marta,Magdalena,478430,Colombia,,,false,other,true,false
+481,1436,Avenida 52 # 93-31,,Pereira,Risaralda,668736,Colombia,,Junto al CAI de policía,false,home,true,true
+482,1437,Diagonal 17 # 111-27,Casa 3,Cartagena,Bolívar,133901,Colombia,,A dos cuadras de la avenida principal,false,home,true,true
+483,1438,Transversal 79 # 131-12,Casa 13,Cali,Valle del Cauca,763336,Colombia,,,false,home,true,true
+484,1439,Carrera 29 # 62-02,,Barranquilla,Atlántico,085524,Colombia,Horario preferido: mañanas,,false,home,true,true
+485,1440,Diagonal 32 # 74-07,Oficina 18,Bogotá D.C.,Cundinamarca,114201,Colombia,Entrada por la puerta lateral,Al lado del banco Bancolombia,false,home,true,true
+486,1440,Avenida 55 # 15-58,,Cali,Valle del Cauca,764604,Colombia,,,false,other,false,false
+487,1441,Transversal 166 # 32-64,Piso 12,Bogotá D.C.,Cundinamarca,113736,Colombia,Dejar con el portero,A dos cuadras de la avenida principal,false,work,true,true
+488,1442,Carrera 54 # 93-85,,Cali,Valle del Cauca,763887,Colombia,,,false,home,true,true
+489,1443,Circular 174 # 128-07,,Manizales,Caldas,174178,Colombia,,Frente al parque San Antonio,false,home,true,true
+490,1444,Circular 38 # 57-57,,Cali,Valle del Cauca,763163,Colombia,,,false,home,true,true
+491,1445,Calle 29 # 72-08,,Barranquilla,Atlántico,081764,Colombia,,,false,home,true,true
+492,1446,Transversal 17 # 7-48,,Barranquilla,Atlántico,089505,Colombia,,Frente al parque San Antonio,false,home,true,true
+493,1447,Carrera 187 # 33-09,,Manizales,Caldas,176239,Colombia,,,false,home,true,true
+494,1448,Avenida 59 # 147-89,Piso 7,Cúcuta,Norte de Santander,547520,Colombia,,,true,other,true,false
+495,1449,Calle 51 # 97-80,,Medellín,Antioquia,053525,Colombia,,Frente al parque San Antonio,false,home,true,true
+496,1450,Circular 125 # 64-45,,Ibagué,Tolima,737119,Colombia,,Frente a la iglesia principal,false,home,true,true
+497,1451,Circular 178 # 114-30,,Bogotá D.C.,Cundinamarca,114114,Colombia,,,false,home,true,true
+498,1451,Circular 178 # 57-46,,Barranquilla,Atlántico,084713,Colombia,,Frente a la plaza de mercado,false,work,false,true
+499,1452,Transversal 118 # 12-66,,Bogotá D.C.,Cundinamarca,119156,Colombia,,Frente al hospital regional,false,work,true,true
+500,1453,Calle 4 # 126-16,,Bogotá D.C.,Cundinamarca,112634,Colombia,,,false,home,true,true
+501,1454,Circular 144 # 47-91,,Bucaramanga,Santander,689077,Colombia,,,false,work,true,true
+502,1455,Diagonal 123 # 52-42,,Medellín,Antioquia,055303,Colombia,Llamar 10 minutos antes de llegar,,false,other,true,false
+503,1456,Carrera 183 # 131-03,,Bogotá D.C.,Cundinamarca,115784,Colombia,,A dos cuadras de la avenida principal,false,work,true,true
+504,1457,Circular 176 # 48-23,Oficina 13,Ibagué,Tolima,731936,Colombia,,,false,other,true,true
+505,1458,Calle 100 # 63-82,Local 8,Pereira,Risaralda,662092,Colombia,,Al lado de la droguería,false,home,true,true
+506,1459,Avenida 27 # 61-01,,Cartagena,Bolívar,136165,Colombia,Celador autorizado para recibir,,false,home,true,true
+507,1460,Carrera 4 # 19-29,Casa 13,Cali,Valle del Cauca,761939,Colombia,,Junto al CAI de policía,false,work,true,true
+508,1461,Diagonal 17 # 81-94,,Cali,Valle del Cauca,768801,Colombia,Horario preferido: mañanas,Diagonal al centro comercial,false,work,true,false
+509,1462,Calle 110 # 69-10,,Cali,Valle del Cauca,766606,Colombia,,Diagonal al centro comercial,false,home,true,true
+510,1463,Transversal 83 # 116-71,,Medellín,Antioquia,054028,Colombia,"Llamar al llegar, no hay citófono",A una cuadra del supermercado Éxito,true,home,true,true
+511,1464,Circular 4 # 19-80,Local 4,Bogotá D.C.,Cundinamarca,113227,Colombia,,Detrás del centro médico,true,home,true,true
+512,1464,Circular 111 # 104-60,,Medellín,Antioquia,058436,Colombia,,,false,home,false,true
+513,1465,Diagonal 126 # 124-30,,Bogotá D.C.,Cundinamarca,114037,Colombia,"Si no hay nadie, dejar con el vecino del 202",Frente al parque San Antonio,false,home,true,true
+514,1466,Transversal 137 # 122-84,,Bucaramanga,Santander,686773,Colombia,"Si no hay nadie, dejar con el vecino del 202",,false,home,true,true
+515,1467,Circular 80 # 52-15,,Santa Marta,Magdalena,477262,Colombia,,Frente al hospital regional,false,work,true,false
+516,1468,Carrera 32 # 38-06,,Bogotá D.C.,Cundinamarca,112134,Colombia,,Frente a la plaza de mercado,false,home,true,true
+517,1469,Transversal 164 # 117-37,,Medellín,Antioquia,051818,Colombia,Dejar en recepción del edificio,,false,home,true,true
+518,1470,Circular 196 # 112-64,,Cartagena,Bolívar,138337,Colombia,,,false,home,true,true
+519,1471,Diagonal 89 # 110-89,Oficina 11,Medellín,Antioquia,051541,Colombia,Llamar 10 minutos antes de llegar,Al lado del colegio San José,false,home,true,true
+520,1472,Diagonal 70 # 145-55,,Villavicencio,Meta,508608,Colombia,,Frente a la plaza de mercado,false,home,true,true
+521,1473,Avenida 53 # 13-89,,Medellín,Antioquia,058634,Colombia,,Frente a la plaza de mercado,false,home,true,true
+522,1474,Diagonal 173 # 53-55,,Barranquilla,Atlántico,082283,Colombia,,,false,home,true,true
+523,1475,Transversal 196 # 86-79,,Bucaramanga,Santander,685615,Colombia,,,false,home,true,true
+524,1476,Avenida 191 # 57-40,Piso 3,Medellín,Antioquia,056002,Colombia,,Al lado del colegio San José,false,home,true,true
+525,1477,Avenida 71 # 149-58,,Santa Marta,Magdalena,475417,Colombia,,Frente al hospital regional,false,work,true,false
+526,1478,Carrera 58 # 13-76,,Bogotá D.C.,Cundinamarca,117883,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,other,true,false
+527,1479,Circular 198 # 134-75,Oficina 4,Cartagena,Bolívar,135082,Colombia,"Timbre no funciona, llamar al llegar",,false,home,true,true
+528,1480,Circular 45 # 30-62,Local 11,Bogotá D.C.,Cundinamarca,115937,Colombia,,,false,home,true,true
+529,1481,Avenida 87 # 121-75,,Barranquilla,Atlántico,083058,Colombia,"Timbre no funciona, llamar al llegar",Cerca de la estación del metro,false,work,true,true
+530,1482,Carrera 186 # 58-73,,Bogotá D.C.,Cundinamarca,111448,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,,false,work,true,true
+531,1483,Avenida 101 # 92-68,Local 7,Barranquilla,Atlántico,086419,Colombia,,,false,other,true,true
+532,1484,Calle 147 # 56-09,,Barranquilla,Atlántico,086906,Colombia,,A media cuadra del parque central,false,home,true,true
+533,1485,Carrera 139 # 141-48,,Bogotá D.C.,Cundinamarca,114353,Colombia,,Al lado del banco Bancolombia,false,home,true,true
+534,1486,Calle 64 # 50-40,,Bogotá D.C.,Cundinamarca,114000,Colombia,,Esquina con la panadería Don Pan,true,home,true,true
+535,1487,Circular 149 # 107-65,Bloque G Apto 1207,Barranquilla,Atlántico,081459,Colombia,"Llamar al llegar, no hay citófono",,false,home,true,true
+536,1488,Carrera 146 # 72-49,Apto 5,Santa Marta,Magdalena,472469,Colombia,,,false,home,true,true
+537,1489,Avenida 49 # 10-39,,Barranquilla,Atlántico,086218,Colombia,Llamar 10 minutos antes de llegar,,false,home,true,true
+538,1490,Carrera 42 # 144-79,Local 13,Bogotá D.C.,Cundinamarca,116543,Colombia,"Llamar al llegar, no hay citófono",Junto a la estación de servicio,false,home,true,true
+539,1490,Transversal 60 # 3-18,,Bogotá D.C.,Cundinamarca,116409,Colombia,,,false,work,false,true
+540,1491,Carrera 65 # 105-60,,Medellín,Antioquia,053012,Colombia,,,false,work,true,true
+541,1492,Carrera 199 # 123-79,,Barranquilla,Atlántico,086164,Colombia,Edificio tiene restricción de horario: solo hasta las 6pm,Cerca de la estación del metro,false,home,true,true
+542,1493,Carrera 60 # 149-72,Piso 16,Bogotá D.C.,Cundinamarca,113795,Colombia,Llamar 10 minutos antes de llegar,A una cuadra del supermercado Éxito,true,home,true,true
+543,1494,Calle 149 # 5-12,,Barranquilla,Atlántico,083671,Colombia,,,false,home,true,true
+544,1494,Calle 113 # 106-34,,Cali,Valle del Cauca,769953,Colombia,,,false,other,false,false
+545,1495,Diagonal 83 # 67-53,,Santa Marta,Magdalena,473996,Colombia,,Frente a la plaza de mercado,false,home,true,true
+546,1496,Carrera 174 # 121-81,,Barranquilla,Atlántico,089286,Colombia,,A una cuadra del supermercado Éxito,false,home,true,true
+547,1497,Circular 88 # 99-51,Oficina 9,Bucaramanga,Santander,689308,Colombia,,Al lado del colegio San José,false,home,true,true
+548,1498,Transversal 197 # 20-24,,Barranquilla,Atlántico,082385,Colombia,"Timbre no funciona, llamar al llegar",Diagonal a la universidad,false,home,true,true
+549,1499,Avenida 177 # 142-54,Bloque A Apto 1925,Santa Marta,Magdalena,472211,Colombia,,Cerca del estadio municipal,false,home,true,true
+550,1500,Carrera 154 # 39-46,,Cúcuta,Norte de Santander,545125,Colombia,,A media cuadra del parque central,false,work,true,true

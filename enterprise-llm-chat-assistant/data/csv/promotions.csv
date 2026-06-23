@@ -1,0 +1,21 @@
+promotion_id,promotion_name,description,discount_type,discount_value,min_purchase_amount,start_date,end_date,active,applicable_category_ids,applicable_product_ids
+1,20% OFF en Electrónica,Descuento del 20% en todos los productos de la categoría Electrónica.,percentage,20.0,0,2026-02-01,2026-03-15,true,1,
+2,Febrero de Electrodomésticos,15% de descuento en toda la línea de Electrodomésticos durante febrero.,percentage,15.0,500000,2026-02-01,2026-02-28,true,2,
+3,Hogar con descuento,10% de descuento en productos de Hogar y Muebles. Compra mínima de $300.000.,percentage,10.0,300000,2026-01-15,2026-03-31,true,3,
+4,Ropa y Calzado - Temporada,Descuento del 25% en toda la categoría de Ropa y Calzado.,percentage,25.0,0,2026-02-10,2026-03-10,true,4,
+5,Fitness Febrero,$50.000 de descuento en Deportes y Fitness en compras superiores a $200.000.,fixed_amount,50000.0,200000,2026-02-01,2026-02-28,true,5,
+6,Belleza al 10%,10% en toda Belleza y Cuidado Personal.,percentage,10.0,0,2026-02-15,2026-04-15,true,6,
+7,Samsung Galaxy S24 Ultra Promo,Descuento especial del 12% en el Samsung Galaxy S24 Ultra (producto 5001).,percentage,12.0,0,2026-02-01,2026-03-01,true,,5001
+8,Combo Apple,Descuento del 10% en MacBook Air M2 y iPhone 15 Pro Max.,percentage,10.0,0,2026-01-20,2026-03-20,true,,5003|5006
+9,PlayStation 5 Oferta,$200.000 de descuento directo en la Consola PlayStation 5.,fixed_amount,200000.0,0,2026-02-14,2026-03-14,true,,5008
+10,Smart TV Samsung 55in 4K Rebaja,15% de descuento en el Smart TV Samsung 55 pulgadas 4K.,percentage,15.0,0,2026-02-01,2026-02-28,true,,5005
+11,Libros y Papelería Escolar,30% de descuento en toda la categoría Libros y Papelería. Ideal para la temporada escolar.,percentage,30.0,0,2026-01-10,2026-03-10,true,7,
+12,Juguetes Día del Niño,20% de descuento en Juguetes y Bebés.,percentage,20.0,0,2026-03-01,2026-04-30,false,8,
+13,Black Friday Electrónica,35% de descuento en toda Electrónica. Promoción del Black Friday 2025.,percentage,35.0,0,2025-11-25,2025-11-30,false,1,
+14,Navidad Hogar,$100.000 de descuento en Hogar y Muebles durante diciembre.,fixed_amount,100000.0,500000,2025-12-01,2025-12-31,false,3,
+15,Xiaomi Smartwatch Descuento,10% de descuento en el Smartwatch Xiaomi Band 8 (producto 5009).,percentage,10.0,0,2026-02-01,2026-04-01,true,,5009
+16,Tecnología y Deporte,8% de descuento en productos de Electrónica y Deportes y Fitness.,percentage,8.0,300000,2026-02-20,2026-03-20,true,1|5,
+17,Especial Audio Sony,$150.000 de descuento en Audífonos Sony WH-1000XM5 y Consola PlayStation 5.,fixed_amount,150000.0,0,2026-02-10,2026-03-31,true,,5004|5008
+18,Envío Gratis Electrodomésticos,Envío gratis en todos los Electrodomésticos con compra mínima de $800.000.,free_shipping,0.0,800000,2026-02-01,2026-03-15,true,2,
+19,San Valentín Belleza,20% en Belleza y Cuidado Personal por San Valentín.,percentage,20.0,0,2026-02-10,2026-02-16,false,6,
+20,Monitor LG UltraWide Promo,"$250.000 de descuento en Monitor LG UltraWide 34in, compra mínima $1.500.000.",fixed_amount,250000.0,1500000,2026-02-15,2026-03-31,true,,5010
